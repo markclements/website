@@ -245,13 +245,6 @@ occur?
 
 2. Is an ecosystem an equilibrium or a non-equilibrium system?
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/dA1Uilm4Te0" frameborder="0" allowfullscreen></iframe>
-<iframe width="420" height="315" src="//www.youtube.com/embed/dA1Uilm4Te0" frameborder="0" allowfullscreen></iframe>
-<iframe width="420" height="315" src="//www.youtube.com/embed/dA1Uilm4Te0" frameborder="0" allowfullscreen></iframe>
-<iframe width="420" height="315" src="//www.youtube.com/embed/dA1Uilm4Te0" frameborder="0" allowfullscreen></iframe>
-<iframe width="420" height="315" src="//www.youtube.com/embed/dA1Uilm4Te0" frameborder="0" allowfullscreen></iframe>
-
-
 Use [Wikipedia](http://en.wikipedia.org/wiki/Main_Page) or
 the [Penguin Dictionary of
 Biology](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?userid=9c4abdj9Ci&isbn=0141013966&itm=1) or your textbook to

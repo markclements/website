@@ -28,7 +28,7 @@ One perhaps surprising group of proteins are the [**aquaporins**](http://www.viv
 
 [![*Aquaporin*](./img/aquaporinandwater2.jpg)](http://www.youtube.com/watch?v=1Uw6u0fzNsE)
 
-> *An aquaporin. Click the image to see an animation of these water channels work!*
+> *An aquaporin. Click the image to see an animation of these water channels at work!*
 
 They increase the permeability of the membrane to water and other small hydrophilic molecules.
 
@@ -61,7 +61,8 @@ influenced by molecular shapes, and the kinetic energy (E~K~) which is a
 function of temperature and reflects the energy available through
 molecular collisions.
 
-[![Melting Membranes](http://img.youtube.com/vi/v=4e4_aZDlQHc/0.jpg)](http://www.youtube.com/watch?vv=4e4_aZDlQHc)
+[![Melting Membranes](http://img.youtube.com/vi/4e4_aZDlQHc/0.jpg)](http://www.youtube.com/watch?v=4e4_aZDlQHc)
+
 > *Movie: Click on the image to watch the tutorial: Melting membranes and molecular movement*
 
 Proteins embedded in a membrane below the "melting temperature" are
