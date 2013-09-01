@@ -66,10 +66,7 @@ molecular collisions.
 > *Movie: Click on the image to watch the tutorial: Melting membranes and molecular movement*
 
 Proteins embedded in a membrane below the "melting temperature" are
-stuck in position.
-
-As the temperature increases, the membrane melts. The lipid tails become
-increasingly disordered.
+stuck in position. As the temperature increases, the membrane melts. The lipid tails become increasingly disordered.
 
 **Membrane fluidity** is critical for the functioning of many membrane
 proteins.
@@ -83,6 +80,8 @@ membrane also influences membrane melting behavior. In human cells,
 between 30 to 40% of the lipids, by number, are cholesterol molecules.
 The bulky shape of the cholesterol molecule suppresses membrane
 freezing.
+
+![*Figure:Phospholipid bilayer with saturated and unsaturated lipds*](./img/Lipid_unsaturation_effect.png)
 
 In saturated hydrocarbon chains, the carbons are linked by single bonds.
 The hydrocarbon chain is flexible, but more or less straight.
@@ -100,13 +99,10 @@ chain. Kinked chains cannot pack together as regularly as can straight
 Compare the saturated fatty acid stearic acid to the unsaturated fatty
 acid oleic acid.
 
-![saturated](../../BioFun-Support/AllGraphics/saturated.jpg)![unsaturated](../../BioFun-Support/AllGraphics/unsaturated.jpg)
-
 Both have the same number of carbons in their hydrocarbon chains. While
 stearic acid melts at 69°C oleic acid melts at 13°C.
 
-![steric acid](../../BioFun-Support/AllGraphics/stericAcid.gif)![oleic
-acid](../../BioFun-Support/AllGraphics/oleicAcid.gif)
+![*Figure:Fatty acids*](./img/fattyacids.jpg)
 
 * * * * *
 
@@ -125,7 +121,7 @@ acid](../../BioFun-Support/AllGraphics/oleicAcid.gif)
 
 **Questions to ponder**
 
--   Would a membrane be more permeable to small molecules at high or low
+1.   Would a membrane be more permeable to small molecules at high or low
     temperatures and why?
 
 * * * * *
@@ -140,7 +136,7 @@ membrane must be permeable to it.
 **Second**, the concentration of the molecule on one side of the
 membrane must be higher than the concentration on the other; such a
 difference in concentration between two places is known as a
-concentration gradient. There is, of course, an exception where "protein
+**concentration gradient**. There is, of course, an exception where "protein
 pumps" and coupled chemical reactions are involved, which we will
 discuss below.
 
@@ -160,6 +156,8 @@ stored in the concentration gradient.
 Note, our analysis of net flux assumes that there are proteins present
 in the membrane that act as channels.
 
+[![Melting Membranes](http://img.youtube.com/vi/a3ewBGC8JbU/0.jpg)](http://www.youtube.com/watch?v=a3ewBGC8JbU)
+
 There exist other classes of transporters. Co-transporters come in two
 "flavors", **symporters** and **antiporters**. Both transport two
 different types of molecules through a linked mechanism.
@@ -178,20 +176,15 @@ concentration gradients, so that the flux of one type of molecule down
 its concentration gradient can be used to move another type of molecule
 up its concentration gradient.
 
-[![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/Sodium%20Galactose%20symporter.gif)](http://www.ncbi.nlm.nih.gov/pubmed/18599740?ordinalpos=3&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum)
+[![*Figure:Antiporter animation*](./img/antiport.gif)](http://www.ncbi.nlm.nih.gov/pubmed/18599740?ordinalpos=3&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum)
 
-  --
-  --
+> *Figure: An antiporter animation. Click the image to read about an important human cell membrane symporter*
 
 Basically, a concentration gradient of one molecule acts as a source of
 energy (a battery) to drive the movement of the other.
 
 If there were no membrane, or if the membrane were completely and freely
-permeable, this "battery" would run down very fast.
-
-  --
-  --
+permeable (substances could move freely), this "battery" would run down very fast.
 
 * * * * *
 
@@ -206,7 +199,7 @@ differ based on which transport proteins are present and active.
 
 Because they are semi-permeable, biological membranes leak - without the
 constant addition of energy, the energy stored in concentration
-gradients across a membrane would dissipate over time, that is
+gradients across a membrane would dissipate over time, that is:
 
 **[molecule]**~outside~ will become equal to **[molecule]**~inside~.
 
@@ -217,12 +210,6 @@ Membrane proteins that directly use energy to generate or maintain
 concentration gradients are known as pumps. These are complex protein
 machines - some can capture energy directly from light, others use
 chemical energy.
-
-  --
-  --
-
-[![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/atp.gif)](#)
 
 There are a number of molecules used to store and transfer chemical
 energy in biological systems.
@@ -239,22 +226,18 @@ In the ATP hydrolysis reaction (ATP + H~2~O to ADP + Pi), the bond
 between the terminal or γ (gamma) phosphate group of ATP is broken and
 new, more stable bonds are formed.
 
-  --
-  --
+![*Figure:Hydrolysis of ATP*](./img/ATPhyd.gif)]
 
 The ATP hydrolysis reaction is coupled to the reaction that changes the
 structure of the pump protein; this drives a change in the structure of
 the pump protein and the pumping of molecules across the membrane (A~in~
 to A~out~).
 
-![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/pumpReaction.jpg)
+![*Figure: Chemical reactions that drive membrane-bound protien pump*](./img/pumpReaction.jpg)
 
 * * * * *
 
-Questions to answer
-
-\
+**Questions to answer**
 
 1.  When would a carrier protein release a bound (hydrophobic) molecule?
 2.  Why does an aquaporin channel not allow a Na+ ion to pass through
@@ -272,37 +255,12 @@ Questions to answer
     ATP hydrolysis? [What "law" might get in the
     way](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/seclaw2.html#c2)?
 
-Questions to ponder\
+**Questions to ponder**
 
--   In considering the evolution of wall-less organisms, how might the
+1.   In considering the evolution of wall-less organisms, how might the
     expression of aquaporins be important?
--   What does it mean to move up a concentration gradient?
--   Are there molecules that can move up their concentration gradients
+2.  What does it mean to move up a concentration gradient?
+3.  Are there molecules that can move up their concentration gradients
     spontaneously?
 
 * * * * *
-
-[![eye](../../BioFun-Support/AllGraphics/eyeblnk1.gif)](https://solarsystem.colorado.edu/conceptInventories/external/bioliteracy.php)
-
-[ talk amongst yourselves about the questions]
-
-* * * * *
-
-  --
-  --
-
-* * * * *
-
-[![](../../BioFun-Support/AllGraphics/ArrowLEFT.GIF)](Topic2D_Membranes.htm)
-
-[![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/ArrowUP.GIF)](#TOP)
-
-revised 24-Apr-2013
-
-[![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/ArrowRIGHT.gif)](Topic2G_Capturing%20Energy.htm)
-
-
-
-
