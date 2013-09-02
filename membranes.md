@@ -117,15 +117,15 @@ Cells are packed full of molecules. The concentration of molecules inside of the
 **Note:** The presence of brackets means concentration. **[A]** means the
 concentration in moles per liter of the molecule A.
 
-This is not how osmosis works; osmosis is actually a pretty wacky and somewhat counterintuitive phenomena. To understand what is really going on, we need to look at molecular interactions occurring in the vicinity of channels that allow water (and nothing else) to move into and out the cell. We will discuss what these channels are later on. 
+This is not how osmosis works; osmosis is actually a pretty wacky and somewhat counterintuitive phenomena. To understand what is really going on, we need to look at molecular-scale interactions occurring in the vicinity of channels that allow water (and nothing else) to move into and out the cell. We will discuss what these channels are later on. 
 
-You already know there is an asymmetry in the solute concentrations on either side of the cell membrane ([solutes]~in~ > [solutes]~out~). For simplicity, let assume that the outside of the cell is pure water ([solutes]~out~ = 0) and the inside is a mixture of water and solutes ([solutes]~in~ = high). You also know that water and solute molecules are in constant motion (average kentic energy of particles is related to temperature).
+You already know there is an asymmetry in the solute concentrations on either side of the cell membrane ([solutes]~in~ > [solutes]~out~). For simplicity, let assume that the outside of the cell is pure water ([solutes]~out~ = 0) and the inside is a mixture of water and solutes ([solutes]~in~ = high). You also know that water and solute molecules are in constant motion (average kentic energy is related to temperature).
 
 ![*Figure: Microscopic view of the a water channel in a cell membrane. Green spheres = solute molecules and blue spheres = water molecules* The inside of the cell is on the right and the outside is on the left](./img/Osmosis.jpg) 
 
 On the inside of the membrane (and only the inside in this example), solute molecules approach, collide, and "bounce" away from the channel (just like tossing a ball against a wall). The of motion of particles headed away from the channel exerts a force on the water molecules in the channel. Since this force is directed away from the channel, water molecule are pulled through the channel and into the cell. The motion of the solute molecules inside our hypothetical cell "suck" water molecules through the membrane channel. In this example, there are no solute molecules outside to "suck" molecules in the other direction so water flows inside the cell.
 
-So we have a general rule: water flows via osmosis toward the region with higher solute concentration. The side with more particles in solution provide more collisions with the channels. The affect of these collisions (i.e., bouncing away from the channel) is to pull water molecules across the membrane, through the channel, toward the side with higher solute concentration. 
+So we have a general rule: water flows via osmosis toward the region with higher solute concentration. The side with more particles in solution provide more collisions with the channels. The affect of these collisions (and subsequent bouncing away from the channel) is to pull water molecules across the membrane, through the channel, toward the side with higher solute concentration. 
 
 Pretty wacky, huh? 
 
@@ -158,7 +158,7 @@ rigid polymer-based, extracellular matrix located outside of the plasma
 membrane.
 
 The space between the cell wall and the plasma membrane is known as the
-periplasmic space**.**
+periplasmic space. 
 
 As water enters the cell (by osmosis), the plasma membrane is pressed up
 against the cell wall at the expense of the periplasmic space.
@@ -170,8 +170,7 @@ water entering the cell.
  ![turgor-2](../../BioFun-Support/AllGraphics/turgorOver.gif)
 
 When the two forces are equal, the net influx of water into the cell
-stops. When the [water] outside decreases, this pressure is reduced and
-the plant wilts.
+stops. When the [solute] outside increases due to loss of water (e.g., drought), this pressure is reduced and the plant wilts.
 
 This is a passive effect, built into the wall when it was first
 assembled. Once the cell wall has been built, a cell with a cell wall
@@ -241,3 +240,5 @@ The cells of your own body are not immune to the affects of osmosis. As an examp
 -   How might an organism use its contractile vacuole for propulsion?
 -   Plants and animals are both eukaryotes; how would you decide whether
     the common ancestor of the eukaryotes had a cell wall?
+    
+ <iframe src="http://www.w3schools.com" sandbox="allow-same-origin allow-scripts"></iframe> 
