@@ -61,6 +61,12 @@ Under the conditions where life exists (e.g., temperature in the room right now)
 
 [![*Movie: Watch this tutorial on Covalent Bonding*](http://img.youtube.com/vi/BL-7laLpFeI/0.jpg)](http://www.youtube.com/watch?v=BL-7laLpFeI) 
 
+<embed
+width="420" height="345"
+src="http://www.youtube.com/v/BL-7laLpFeI"
+type="application/x-shockwave-flash">
+</embed>
+
 *Movie: Click on the image above and watch the tutorial on Covalent Bonding*
 
 When atoms form a bond, their van der Waals surfaces merge to produce a new molecular van der Waals surface.
