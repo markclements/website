@@ -59,13 +59,7 @@ Under the conditions where life exists (e.g., temperature in the room right now)
 
 **Covalent bonds**: In van der Waals interactions, the atoms/molecules retain their hold on their electrons. There are cases, however, where atoms come to "share" each other's electrons. This sharing, known as a covalent bond, produces a much stronger bond interaction. This strong bond substantially lowers the energy and the system (interacting atoms) becomes more stable.
 
-[![*Movie: Watch this tutorial on Covalent Bonding*](http://img.youtube.com/vi/BL-7laLpFeI/0.jpg)](http://www.youtube.com/watch?v=BL-7laLpFeI) 
-
-<embed
-width="420" height="345"
-src="http://www.youtube.com/v/BL-7laLpFeI"
-type="application/x-shockwave-flash">
-</embed>
+<embed width="420" height="345" src="http://www.youtube.com/v/BL-7laLpFeI" type="application/x-shockwave-flash"> </embed>
 
 *Movie: Click on the image above and watch the tutorial on Covalent Bonding*
 
@@ -89,7 +83,7 @@ On average, bond electrons will spend more time around the more electronegative 
 
 This leads to partially negatively and positively-charged sides to the bond. This produces an electrical field, known as a **dipole**. Such a bond is said to be **polar**.
 
-[![*Movie: Watch this tutorial on Covalent Bonding*](http://img.youtube.com/vi/cZy8tGFV8QE/0.jpg)](http://www.youtube.com/watch?v=cZy8tGFV8QE)
+<embed width="420" height="345" src="http://www.youtube.com/v/cZy8tGFV8QE" type="application/x-shockwave-flash"> </embed>
 
 *Movie: Click on the image and watch the tutorial on bonds and electronegativity.*
 
@@ -151,7 +145,7 @@ Water's surface tension has to be dealt with by all organisms. Some, like the wa
 
 As the strider walks on the surface of the water, the molecules of its feet do not form H-bonds with water molecules, they are said to be hydrophobic (literally: hate water). Hydrophobic interactions also explain why water and oil do not mix (see below)
 
-[![IMage](./img/water_1.jpg)](http://www.livescience.com/62-walking-water-insect-secret-revealed.html)
+[![Image](./img/water_1.jpg)](http://www.livescience.com/62-walking-water-insect-secret-revealed.html)
 
 *Figure: Water strider "walking on water". Click the image to read an article about how the water strider achieves this amazing trick.*
 
@@ -176,7 +170,7 @@ However, much of this change in "enthalpy" (i.e., the energy of the system incre
 
 What is happening in this case is the system responds so as to maximize the number of H-bonds present. This requires that the water molecules become arranged in a shell around each **A** molecule. Such a shell is more ordered than the normal arrangement of water molecules. This results in a thermodynamically unfavorable **decrease** in the entropy of the system.   
 
-[![*Movie:*](http://img.youtube.com/vi/_6M0KMFHw2E/0.jpg)](http://www.youtube.com/watch?v=_6M0KMFHw2E) 
+<embed width="420" height="345" src="http://www.youtube.com/v/_6M0KMFHw2E" type="application/x-shockwave-flash"> </embed>
 
 *Movie: Click on the image to watch the tutorial: Water, entropy, and solubility*
 
@@ -224,7 +218,7 @@ In pure water, [OH^-^] = [H^+^] are equal to 10^-7^ molar (# of atoms/volume). T
 
 **Note:** [OH^-^] = the concentration (# of atoms/volume) of hydroxide ions.  
 
-[![*Movie:*](http://img.youtube.com/vi/dZrSMBvK46A/0.jpg)](http://www.youtube.com/watch?v=dZrSMBvK46A)
+<embed width="420" height="345" src="http://www.youtube.com/v/dZrSMBvK46A" type="application/x-shockwave-flash"> </embed>
 
 *Movie: Click on the image and the tutorial: Dissolving salt and splitting water* 
 
