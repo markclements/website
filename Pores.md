@@ -10,7 +10,8 @@ Never fear, we will discuss the basics of proteins later in the course!
 
 -   **Pump** proteins use energy (through coupled chemical reactions) to actively move various types of molecules across the membrane, often against a concentration gradient.
  
-[![Moving Through Membranes](http://img.youtube.com/vi/JxtnneWWzHo/0.jpg)](http://www.youtube.com/watch?v=JxtnneWWzHo)
+
+<embed width="420" height="345" src="http://www.youtube.com/v/JxtnneWWzHo" type="application/x-shockwave-flash"> </embed>
 
 > *Movie: Click on the image to watch the tutorial: Moving through biological membranes*
 
@@ -61,7 +62,7 @@ influenced by molecular shapes, and the kinetic energy (E~K~) which is a
 function of temperature and reflects the energy available through
 molecular collisions.
 
-[![Melting Membranes](http://img.youtube.com/vi/4e4_aZDlQHc/0.jpg)](http://www.youtube.com/watch?v=4e4_aZDlQHc)
+<embed width="420" height="345" src="http://www.youtube.com/v/4e4_aZDlQHc" type="application/x-shockwave-flash"> </embed>
 
 > *Movie: Click on the image to watch the tutorial: Melting membranes and molecular movement*
 
@@ -156,7 +157,9 @@ stored in the concentration gradient.
 Note, our analysis of net flux assumes that there are proteins present
 in the membrane that act as channels.
 
-[![Melting Membranes](http://img.youtube.com/vi/a3ewBGC8JbU/0.jpg)](http://www.youtube.com/watch?v=a3ewBGC8JbU)
+<embed width="420" height="345" src="http://www.youtube.com/v/a3ewBGC8JbU" type="application/x-shockwave-flash"> </embed>
+
+*Movie: Moving through a membrane*
 
 There exist other classes of transporters. Co-transporters come in two
 "flavors", **symporters** and **antiporters**. Both transport two

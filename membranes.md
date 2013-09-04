@@ -64,9 +64,7 @@ membranes.
 
 The process of interdependence of change is known as co-evolution.
 
-
-[![*Movie:Protocel forming from fatty acids*](http://img.youtube.com/vi/VhUIIONM6A0/0.jpg)](http://www.youtube.com/watch?v=VhUIIONM6A0)
-
+<embed width="420" height="345" src="http://www.youtube.com/v/VhUIIONM6A0" type="application/x-shockwave-flash"> </embed>
 
 > *Movie: Protocel forming from fatty acids (Click image to watch).**Note** do you understand that this video represents a three-dimensional process?*
 
@@ -115,7 +113,7 @@ solvent (like H~2~0) into or out of the cell.
 Cells are packed full of molecules. The concentration of molecules inside of the cell is usually much greater than outside. These molecules take up space, space no longer occupied by water. Intuition might lead you to believe that since the concentration of water outside of the cell **[H~2~O]~out~** is higher than the concentration of water inside the cell **[H~2~O]~in~** that osmosis involves the diffusion of water down its concentration gradient (In fact most biology textbooks describe it this way). 
 
 **Note:** The presence of brackets means concentration. **[A]** means the
-concentration in moles per liter of the molecule A.
+concentration in moles (# of atoms) per liter of the molecule A.
 
 This is not how osmosis works; osmosis is actually a pretty wacky and somewhat counterintuitive phenomena. To understand what is really going on, we need to look at molecular-scale interactions occurring in the vicinity of channels that allow water (and nothing else) to move into and out the cell. We will discuss what these channels are later on. 
 
@@ -140,9 +138,6 @@ Again, many important human physiological processes depend upon osmosis. These i
 
 * * * * *
 
-  --
-  --
-
 **Dealing with osmosis:** The water concentration gradient across the
 plasma membrane of most organisms leads to an influx of water into the
 cell, particularly if there are water channels in the
@@ -166,8 +161,7 @@ against the cell wall at the expense of the periplasmic space.
 The force exerted by the cell wall on the membrane balances the force of
 water entering the cell.
 
-![turgor-1](../../BioFun-Support/AllGraphics/turgor.gif)\
- ![turgor-2](../../BioFun-Support/AllGraphics/turgorOver.gif)
+![*Figure:Turgor pressure. Hypertonic ([solutes]~out~ > [solutes]~in~), Isotonic ( [solutes]~in~ = [solutes]~out~),  and Hypotonic ([solutes]~in~ > [solutes]~out~)*](./img/turgor_pressure.png)
 
 When the two forces are equal, the net influx of water into the cell
 stops. When the [solute] outside increases due to loss of water (e.g., drought), this pressure is reduced and the plant wilts.
@@ -176,16 +170,12 @@ This is a passive effect, built into the wall when it was first
 assembled. Once the cell wall has been built, a cell with a cell wall
 does not need to expend energy to resist osmotic effects.
 
-  --
-  --
-
-[![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/phagocytosis%20movie.gif)](http://academic.brooklyn.cuny.edu/biology/bio4fv/page/phago.htm)
-
 **Dealing with osmosis without a cell wall:** Animal cells do not have a
 rigid cell wall. This allows them to be active predators, moving rapidly
 and engulfing their prey (organisms with a rigid cell wall can’t do
 that!)
+
+![*Figure: Protist (single-celled microbe) engulfing a prey item*](./img/phagocytosis.gif)
 
 It also means, however, that they must use other mechanisms to deal with
 the effects of osmosis.
@@ -201,11 +191,7 @@ contractile vacuole.
 Water accumulates within the contractile vacuole, a membrane-bounded
 structure, which inflates.
 
-[![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/vidjun%20caption.gif)](http://www.microscopy-uk.org.uk/mag/artjun99/vidjuna.html)
-
-  --
-  --
+![*Figure: Contractile vacuole in action!*](./img/vidjun_caption.gif)
 
 To expel the water, the vacuole connects with the plasma membrane and is
 squeezed by cytoskeletal systems within the cytoplasm.
@@ -213,7 +199,7 @@ squeezed by cytoskeletal systems within the cytoplasm.
 This squirts the water out of the cell. The process of vacuole
 contraction is an active one, it involves work and requires energy.
 
-The cells of your own body are not immune to the affects of osmosis. As an example, the plasma (i.e. water portion) of human blood and red blood cells have nearly equal solute concentrations. Imagine the consequences if you were given an IV of solution that was pure water. Your red blood cells could swell and burst, causing anemia. 
+The cells of your own body are not immune to the affects of osmosis. As an example, the plasma (i.e. water portion) of human blood and red blood cells have nearly equal solute concentrations. Imagine the consequences of receiving an IV of fluids that was pure water. Your red blood cells could swell and burst, causing anemia. 
 
 * * * * *
 
@@ -240,9 +226,5 @@ The cells of your own body are not immune to the affects of osmosis. As an examp
 -   How might an organism use its contractile vacuole for propulsion?
 -   Plants and animals are both eukaryotes; how would you decide whether
     the common ancestor of the eukaryotes had a cell wall?
-    
-<embed
-width="420" height="345"
-src="http://www.youtube.com/v/XGSy3_Czz8k"
-type="application/x-shockwave-flash">
-</embed>
+
+* * * * *
