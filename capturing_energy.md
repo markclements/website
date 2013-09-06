@@ -179,6 +179,8 @@ http://www.youtube.com/watch?v=4OkN1QC4hyY&feature=player_embedded*
 
 Tutorial: Gradients and reactions -- bacteriorhodopsin*
 
+<iframe width="420" height="315" src="//www.youtube.com/embed/d5fDEUhjo-M" frameborder="0" allowfullscreen></iframe>
+
 * * * * *
 
 **Other photosystems:** Cyanobacteria and plants use a more complex
