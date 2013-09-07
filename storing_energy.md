@@ -9,17 +9,11 @@ familiar.
 As you (hopefully) appreciate, whenever a bond is formed, energy is
 released - it always takes energy to break a bond
 
-  ---
-   
-  ---
-
 Generally, the energy required to break bonds comes from the kinetic
 energy of surrounding molecules (similarly the energy released upon bond
 formation is often transformed into kinetic energy).
 
-  ---
-   
-  ---
+![*Figure: Energy bond breaking and formation*](./img/bondbreakingandformation.jpg)
 
 When we think about a molecule like ATP and energy, we have to consider
 all of the bonds that are broken and formed in the process.
@@ -28,19 +22,15 @@ ATP is typically formed from ADP and Pi. We have to break a number of
 rather stable bonds in both ADP and Pi to form the new and rather
 unstable ADP- Pi bond in ATP. [what makes ATP unstable?]
 
-![](../../BioFun-Support/AllGraphics/bond%20breaking%20and%20formation.jpg)
-
-  ---
-   
-  ---
-
 Another class of “high energy/low stability” molecules involves the
 reduction of certain compounds. For example, the addition of two
-electrons and a proton to nicotinamide adenine dinucleotide (NAD**^+^**)
+electrons and a proton to nicotinamide adenine dinucleotide (NAD^+^)
 leads to the formation of the high energy/unstable molecule NADH.
 
+![*Figure: NAD is a low energy molecule*](./img/NAD.jpg)] ![*Figure: NADH is a high energy molecule*](./img/NADH.jpg)]
+
 Similarly, the addition of two electrons and two protons to flavin
-adenine dinucleotide (FAD) leads to the formation of FADH~2~**.**
+adenine dinucleotide (FAD) leads to the formation of FADH~2~
 
 Both NADH and FADH~2~ are high energy/unstable compounds, like ATP. When
 electrons are removed from NAPH or FADH~2~, that is when these molecules
@@ -50,25 +40,20 @@ regenerated.
 The energy carried by NADH and FADH~2~ is used to drive a number of
 cellular reactions, it can also be used to generate ATP.
 
-[![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/NAD.jpg)](#)
-
 * * * * *
-
-[![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/mitchell.jpg)](http://www.nobel.se/chemistry/laureates/1978/mitchell-bio.html)
 
 How does the cell use the energy stored in NADH and FADH~2~ to make ATP?
 The answer came from the work of an eccentric British scientist, [Peter
-Mitchell](http://www.biology.ucsd.edu/%7Emsaier/transport/petermitchell/one.html)**[.](http://www.biology.ucsd.edu/%7Emsaier/transport/petermitchell/one.html)**
+Mitchell](http://www.biology.ucsd.edu/%7Emsaier/transport/petermitchell/one.html)
 It is known as the chemiosmotic hypothesis.
+
+[![Figure: Peter Mitchell](./img/mitchell.jpg)](http://www.nobel.se/chemistry/laureates/1978/mitchell-bio.html)
+
+*Figure: Peter Mitchell, click the image to learn more*
 
 Mitchell proposed that the energy held in NADH and FADH~2~ was used to
 generate a concentration gradient of H^+^ across the plasma membrane in
 bacterial cells.
-
-  --
-  --
 
 Electrons, removed from NADH or FADH~2~, pass through an electron
 transport chain.
@@ -81,8 +66,9 @@ transport chain to the next, the first is oxidized, the second is
 reduced, some energy is "bled-off’ and used to pump H^+^s out of the
 cell, forming an H^+^ concentration gradient across the membrane.
 
-  --
-  --
+<embed width="420" height="345" src="http://www.youtube.com/v/uniFehcAhHc" type="application/x-shockwave-flash"> </embed>
+
+*Tutorial: Watch the tutorial: Electron transport in bacteria & archaea.*
 
 **ATP synthases** consist of two parts, the F~o~ membrane channel and
 the F~1~ ATP synthase. The ATP synthase mediates a series of coupled
@@ -98,19 +84,19 @@ it (under the right conditions) from running backward. When this occurs,
 the ATP synthase acts as an ATPase and a pump that can move H^+^s
 against its concentration gradient.
 
-  --
-  --
+<embed width="420" height="345" src="http://www.youtube.com/v/J8lhPt6V-yM" type="application/x-shockwave-flash"> </embed>
+
+*Movie: Watch synthase in action!*
 
 As H+s move through the ATP synthase, the molecule rotates, this
 rotation “forces” ADP + Pi together to form ATP.
 
-This is a higher magnification view of the process, where you can see
+<embed width="420" height="345" src="http://www.youtube.com/v/a39W-XFPB8E" type="application/x-shockwave-flash"> </embed>
+
+This (above) is a higher magnification view of the process, where you can see
 ADP and Pi binding, ATP formation, and then release.
 
 * * * * *
-
-  --
-  --
 
 **Back to electrons:** So where do the electrons end up? They have to go
 somewhere!
@@ -123,11 +109,7 @@ recycled).
 The electrons pass through the electron transport chain, as they move
 H^+^s are moved across the membrane to form a H^+^ gradient.
 
-![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/respire.gif)
-
-  --
-  --
+![*Figure: Aerobic respiration*](./img/respire.gif)
 
 Eventually four of these electrons (and four H^+^s) are added to two
 O~2~s, creating two water molecules. Again this is a thermodynamically
@@ -142,11 +124,7 @@ In the absence of O~2~, that is under anaerobic conditions, the
 breakdown of pyruvate to CO~2~ and H~2~O cannot occur - the energy in
 pyruvate is unavailable to the cell.
 
-  --
-  --
-
-![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/anaerobic.gif)
+![*Figure: Anaerobic respiration*](./img/anaerobic.gif)
 
 The cell contains limited amounts of NAD^+^ and NADH (can you imagine
 why?)
@@ -161,9 +139,7 @@ glucose is captured in the absence of molecular oxygen.
 
 * * * * *
 
-Questions to answer
-
-\
+**Questions to answer**
 
 1.  When a bond forms, where does the energy go?
 2.  What would happen to a cell’s ability to make ATP if it where
@@ -173,25 +149,10 @@ Questions to answer
 4.  Where or when might pyruvate (or some other intermediate)
     accumulate?
 
-Questions to ponder\
+**Questions to ponder**
 
 -   Which do you think would have an evolutionary advantage, an organism
     growing aerobically on anaerobically?
 -   How do environmental conditions influence your answer?
 
 * * * * *
-
-  --
-  --
-
-* * * * *
-
-[![arrow](../../BioFun-Support/AllGraphics/ArrowLEFT.GIF)](../../Biofundamentals-2012/lectureNotes-Revision/Topic2G_Capturing%20Energy.htm)
-
-[![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/ArrowUP.GIF)](#TOP)
-
-revised 17-Apr-2013
-
-[![\*\* PLEASE DESCRIBE THIS IMAGE
-\*\*](../../BioFun-Support/AllGraphics/ArrowRIGHT.gif)](Topic2I_Symbiosis.htm)

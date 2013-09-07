@@ -1,4 +1,4 @@
-##14. A (very) little thermodynamics
+##A (very) little thermodynamics
 
 * * * * *
 
