@@ -37,7 +37,9 @@ interbreed successfully.
 But, populations A~5~ and A~e~ no longer interbreed successfully – are
 these populations separate species?  
 
-[![ring](../../BioFun-Support/AllGraphics/ring%20species.gif)](http://www.actionbioscience.org/evolution/irwin.html)
+[![ring](./img/ring_species.gif)](http://www.actionbioscience.org/evolution/irwin.html)
+
+*Figure: Ring species. Click the image to learn more*
 
 **Defining relationships between species morphologically:**The linnean
 classification system suggests a tree-like organization to the
@@ -58,8 +60,7 @@ traits are considered to be primitive (and so present in ancestral
 forms) and which traits are considered to represent recent
 specializations[.](http://www.amnh.org/exhibitions/Fossil_Halls/cladistics.html)\
 
-![lineage A](../../BioFun-Support/AllGraphics/lineageA.jpg)![lineage
-B](../../BioFun-Support/AllGraphics/lineageB.jpg)
+![lineage A](./img/lineageA.jpg)![lineageB](./img/lineageB.jpg)
 
 The ability to determine the complete sequence of an organism’s DNA has
 made it possible to use other traits, DNA sequence and genome
@@ -80,13 +81,11 @@ genus.  For example there are a number of species in the genus *Homo*
 *sapiens* (modern people), *floresiensis*, *habilis,* and
 *neanderthalensis*. 
 
+[![](./img/img/flor_and_sapiens.gif)](http://www.pandasthumb.org/pt-archives/000582.html)
+
 Given their similarities, we assume that all members of a particular
 genus share a common ancestor in the relatively recent (millions to tens
 of millions of years) past. 
-
- 
-
-[![](../../BioFun-Support/AllGraphics/flor%20and%20sapiens.gif)](http://www.pandasthumb.org/pt-archives/000582.html)
 
 As we look deeper at the anatomical and molecular structure of
 organisms, particularly their genomic DNA sequences, we find evidence
@@ -102,10 +101,7 @@ The available evidence indicates that all primates shared a common
 ancestor that lived approximately 85 million years ago (that is about 20
 million years before the dinosaurs went extinct!). 
 
- 
-
-![human
-classification](../../BioFun-Support/AllGraphics/human-linnean-classification.jpg)
+![human classification](./img/human-linnean-classification.jpg)
 
 The primates are divided into two suborders, all members of one of
 these, the Haplorrhini, which includes tarsiers, monkeys, apes, and
@@ -115,8 +111,7 @@ requirement is due to a mutation in a gene (known as GULO or
 vitamin C.  This mutation in the ancestor or the Haplorrhini appears to
 have occurred \~40 million years ago.
 
-[![vitamin
-C](../../BioFun-Support/AllGraphics/VitaminCPhylogeny.jpg)](http://anthro.palomar.edu/earlyprimates/first_primates.htm)
+[![vitamin C](./img/VitaminCPhylogeny.jpg)](http://anthro.palomar.edu/earlyprimates/first_primates.htm)
 
 Putting a working copy of this gene, [derived form a
 mouse](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=14962674&query_hl=16&itool=pubmed_docsum),
@@ -158,11 +153,7 @@ prefer the simpler of the two.
 In the case of the relationships between organisms, evolutionary
 mechanisms provide the simplest, and most predictive explanation. 
 
-Questions to answer
-
- 
-
-\
+**Questions to answer**
 
 1.  How would you go about determining whether an organism, identified
     through fossil evidence, was part of a new or a living species?  
@@ -177,7 +168,7 @@ Questions to answer
 7.  How can you decide whether a trait is primitive or derived? Is it
     always unambiguous?
 
-Questions to ponder\
+**Questions to ponder**
 
 -   How does a species differ from a genus or an order, are both equally
     “natural” groupings? 
@@ -193,7 +184,7 @@ traits were inherited from a common ancestor or whether they represent
 independent solutions to a particular problem.
 
 For example, an anatomical analysis of the forelimb of
-mammals****suggests that they are **homologous** structures.
+mammals suggests that they are **homologous** structures.
 
 To say that two structures are homologous means that they are derived
 from a common ancestor and that the feature was present in that common
@@ -203,21 +194,20 @@ This type of reasoning leads to the prediction that fossils of the last
 common ancestor of the mammals will be found to have a forelimb with a
 structure similar to that of modern mammals.
 
-[![](../../BioFun-Support/AllGraphics/TetrapodLimb.jpg)](http://www.pbs.org/wgbh/evolution/library/04/2/l_042_01.html)
+[![](./img/TetrapodLimb.jpg)](http://www.pbs.org/wgbh/evolution/library/04/2/l_042_01.html)
 
 Not all similar structures are homologous, however. The alternative is
 that the structures are **analogous**. When two structures are
 analogous, it means that they evolved independently, but perform the
 same functions or have a similar structure.
 
-* * * * *
-
-[![](../../BioFun-Support/AllGraphics/Wings.jpg)](http://www.nurseminerva.co.uk/adapt/wings.htm#bat)
 
 Their common form was determined by their common function.
 
 Consider the wing of a pterodactyl, a flying reptile, a bird, and a bat,
 a mammal.
+
+[![](./img/Wings.jpg)](http://www.nurseminerva.co.uk/adapt/wings.htm#bat)
 
 Analysis of these structures indicates that they are distinctly
 different from one another.
@@ -244,7 +234,7 @@ This process is known as convergent evolution. 
 Convergent evolution occurs when only certain solutions to a particular
 problem are evolutionarily accessible.  As another example, the use of a
 dagger is an effective solution to the problem of killing another
-organism..\
+organism.
 
 Variations of this solution have been “discovered” or invented
 independently many times.
@@ -252,11 +242,9 @@ independently many times.
 Marsupial and placental mammals diverged from a common ancestor
 approximately 160Myr ago.
 
-[![](../../BioFun-Support/AllGraphics/MegazostrodonFlesh.jpg)](http://www.indiana.edu/%7Eensiweb/c.sinoc.html)
-
 Since then, they have converged on a number of similar adaptations.
 
- 
+<embed width="420" height="345" src="http://www.youtube.com/v/ntVI4N7AUx0" type="application/x-shockwave-flash"> </embed>
 
 * * * * *
 
@@ -271,20 +259,15 @@ useful can become irrelevant and may be lost.
 A classic example is the reduction of hind limbs during the [evolution
 of
 whales](http://ngm.nationalgeographic.com/ngm/data/2001/11/01/html/ft_20011101.4.html?fs=animals-panther.nationalgeographic.com). 
-\
 
- 
-
-[![](../../BioFun-Support/AllGraphics/whale%20hindlimb.gif)](http://www.pbs.org/wgbh/evolution/library/03/4/l_034_05.html)
-
-[![](../../BioFun-Support/AllGraphics/eyeless%20trilobites.jpg)](http://www.aloha.net/%7Esmgon/eyes.htm)
-
- 
+[![](./img/whale_hindlimb.gif)](http://www.pbs.org/wgbh/evolution/library/03/4/l_034_05.html)
 
 Another common loss is that of eyes, often seen as populations adapt to
 environments in which light is absent. The loss of traits can itself be
 an adaptation if it provides an advantage to organisms living in a
 particular environment. 
+
+[![](./img/eyeless_trilobites.jpg)](http://www.aloha.net/%7Esmgon/eyes.htm)
 
 This fact can make it difficult to determine whether an organism is
 primitive (that is retains ancestral features) or is highly evolved. 
@@ -303,7 +286,7 @@ are active as the structure forms. 
 The more details two structures share, the more likely they are to be
 homologous.
 
-[![phylo](../../BioFun-Support/AllGraphics/phylogenetic-tree-and-time.gif)](http://i.imgur.com/emPJ3.gif)
+[![phylo](./img/phylogenetic-tree-and-time.gif)](http://i.imgur.com/emPJ3.gif)
 
 Detailed analysis of many different types of organisms reveals the
 presence of a common molecular signature that strongly suggests that all
@@ -319,7 +302,7 @@ To review (superficially), all extant organisms …
 -   use double stranded DNA as their genetic material
 -   use the same molecular systems, transcription and translation, to
     access the information stored in DNA
--   use a common genetic code**,**with few variations, to specify the
+-   use a common genetic code, with few variations, to specify the
     sequence of polypeptides (proteins)
 -   use ribosomes to translate the information stored in messenger RNAs
     into polypeptides
@@ -327,13 +310,7 @@ To review (superficially), all extant organisms …
 
 * * * * *
 
-Questions to answer
-
- 
-
- 
-
-\
+**Questions to answer**
 
 1.  What typical mammalian traits have whales lost during their
     evolution? which have they retained?
@@ -346,7 +323,7 @@ Questions to answer
     say about the diversity of pre-biogenic systems that existed before
     that ancestor?
 
-Questions to ponder\
+**Questions to ponder**
 
 -   How does the presence of convergent evolution complicate phylogenic
     analyses?  What general types of conditions might lead to a complex
@@ -355,21 +332,3 @@ Questions to ponder\
     “advanced” traits? 
 
 * * * * *
-
-[![eye](../../BioFun-Support/AllGraphics/eyeblnk1.gif)](https://solarsystem.colorado.edu/conceptInventories/external/bioliteracy.php)
-
-**before class**  [ talk amongst yourselves about the questions]
-
-* * * * *
-
-* * * * *
-
-**[![arrow](../../BioFun-Support/AllGraphics/ArrowLEFT.GIF)](Topic1H_Evo.htm)**
-
-[![](../../BioFun-Support/AllGraphics/ArrowUP.GIF)](#TOP)
-
-revised 24-Apr-2013
-
- 
-
-[![arrow](../../BioFun-Support/AllGraphics/ArrowRIGHT.gif)](Topic2A_Thermo.htm)
