@@ -106,34 +106,40 @@ a full discussion is beyond the scope of this course. 
 > One of the most robust and reliable findings in the scientific
 > literature on interpersonal attraction is the overwhelming role played
 > by physical attractiveness in defining the ideal romantic partner
-> (Hatfield & Sprecher, 1986; Jackson, 1992).   
-> 
+> (Hatfield & Sprecher, 1986; Jackson, 1992).\
+> \
+>
 > Both men and women express marked preference for an attractive partner
 > in a noncommitted short-term (casual, one night stand) relationship
-> (Buss & Schmitt, 1993).   
-> 
+> (Buss & Schmitt, 1993).\   
+> \
+>
 > For committed long-term relationships, females appear to be willing to
 > relax their demand for a partner’s attractiveness, especially for males
 > with high social status or good financial prospects (for a review see
-> Buss, 1999). 
+> Buss, 1999).\
+>\
 > 
 > Males also look for various personality qualities (kindness,
 > understanding, good parental skills) in their search for long-term
 > mating partners, but unlike females, they assign disproportionately
 > greater importance to attractiveness compared to other personal
-> qualities (Buss, 1999).
-> 
+> qualities (Buss, 1999).\
+> \
+>
 > The paramount importance of attractiveness in males’ mate choices has
 > been recently demonstrated by using the distinction between necessities
 > (i.e., essential needs, such as food and shelter) and luxuries (i.e.,
 > objects that are sought after essential needs have been satisfied, such
-> as a yacht or expensive car) made by economists.
+> as a yacht or expensive car) made by economists.\
+>\
 > 
 > Using this method, Li et al., (2002) reported that males treat female
 > attractiveness as a necessity in romantic relationships; given a limited
 > “mating budget,” males allocate the largest proportion of their budget
 > to physical attractiveness rather than to other attributes such as an
-> exciting personality, liveliness, and sense of humor.
+> exciting personality, liveliness, and sense of humor.\
+>\
 >  
 > - from [Mating strategies for young women](http://www.findarticles.com/p/articles/mi_m2372/is_1_41/ai_114593248/pg_1) by Devendra Singh (2004).
 

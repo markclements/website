@@ -31,17 +31,23 @@ There is strong evidence for a severe evolutionary bottleneck during the course 
 Once a population is small, the effects of genetic drift will also increase and can 
 become profound.
 
-> "If a population is finite in size (as all populations are) and if a given pair of parents have only a small number of offspring, then even in the absence of all selective forces, the frequency of a gene will not be exactly reproduced in the next generation because of sampling error.  
-> 
-> If in a population of 1000 individuals the frequency of "a" is 0.5 in one generation, then it may by chance be 0.493 or 0.505 in the next generation because of the chance production of a few more or less progeny of each genotype.
-> 
-> In the second generation, there is another sampling error based on the new gene frequency, so the frequency of "a" may go from 0.505 to 0.501 or back to 0.498. This process of random fluctuation continues generation after generation, with no force pushing the frequency back to its initial state because the population has no "genetic memory" of its state many generations ago.
-> 
-> Each generation is an independent event. The final result of this random change in allele frequency is that the population eventually drifts to p=1 or p=0.  After this point, no further change is possible; the population has become homozygous. 
-> 
-> A different population, isolated from the first, also undergoes this random genetic drift, but it may become homozygous for allele "A", whereas the first population has become homozygous for allele "a".  
+> "If a population is finite in size (as all populations are) and if a given pair of parents have only a small number of offspring, then even in the **absence of all selective forces**, the frequency of a gene will not be exactly reproduced in the next generation because of **sampling error**.\
+>\ 
 >
-> As time goes on, isolated populations diverge from each other, each losing heterozygosity. The variation originally present within populations now appears as variation between populations."
+> If in a population of 1000 individuals the frequency of "a" is 0.5 in one generation, then it may by chance be 0.493 or 0.505 in the next generation because of the chance production of a few more or less progeny of each genotype.\
+> \
+>
+> In the second generation, there is another sampling error based on the new gene frequency, so the frequency of "a" may go from 0.505 to 0.501 or back to 0.498. This process of random fluctuation continues generation after generation, with no force pushing the frequency back to its initial state because the population has no "genetic memory" of its state many generations ago.\
+>\
+>
+> Each generation is an independent event. The final result of this random change in allele frequency is that **the population eventually drifts to p=1 or p=0**.  After this point, no further change is possible; the population has become homozygous.\
+>\
+>
+> A different population, isolated from the first, also undergoes this random genetic drift, but it may become homozygous for allele "A", whereas the first population has become homozygous for allele "a".\ 
+>\
+>
+> As time goes on, isolated populations diverge from each other, each losing heterozygosity. The variation originally present within populations now appears as variation between populations.\
+>\
 >
 > - Suzuki et al., 1989. An Introduction to Genetic Analysis 4th ed. W.H. Freeman p.704
 
