@@ -1,1 +1,1 @@
-pandoc -s -t html5 -A nb_scripts.html -c ./stylesheets/Mystyle.css -o Pores.html Pores.md
+pandoc -s -t html5 -H nb_scripts.html -c ./stylesheets/Mystyle.css -o Pores.html Pores.md
