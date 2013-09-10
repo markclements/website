@@ -93,7 +93,7 @@ The next step in eukaryotic evolution involved a second endosymbiotic
 event in which a cyanobacteria-like bacterium formed an endosymbiotic
 relationship with a mitochondria-containing eukaryote.
 
-![*Figure: eukaryotic origins*](./img/eukaryotic_origins.jpg)](http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/E/Endosymbiosis.html)
+[![*Figure: eukaryotic origins*](./img/eukaryotic_origins.jpg)](http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/E/Endosymbiosis.html)
 
 *Figure: Eukaryotic origins. Click the image to learn more*
 
