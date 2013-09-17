@@ -14,7 +14,7 @@ body {
     font-size: 14px;
     line-height: 18px;
     color: #33333;
-    margin: 10px 10px 10px 20px;
+    margin: 1px 1px 1px 1px;
 }
 a {
     color: #0069d6;
@@ -58,7 +58,7 @@ h6 {
     font-size: 13px;
 }
 hr {
-    margin: 0 0 19px;
+    margin: 0 0 1px;
     border: 0;
     border-bottom: 1px solid #aaa;
 }
@@ -98,7 +98,7 @@ code {
 pre {
     display: block;
     padding: 14px;
-    margin: 0 0 18px;
+    margin: 0 0 1px;
     line-height: 16px;
     font-size: 11px;
     border: 1px dashed #ccc;
@@ -118,6 +118,6 @@ pre code {
 @media screen and (min-width: 500px) {
     body {
         width: 748px;
-        margin:10px auto;
+        margin:1px auto;
     }
 }

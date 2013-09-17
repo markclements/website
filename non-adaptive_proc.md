@@ -69,6 +69,8 @@ is that certain traits can be over-represented in a population by chance.
 5. Assume that all members of a population that pass through a bottleneck have a deleterious trait; can the population survive and, if so, how would selection act on the population after the bottleneck?
 6. What is the difference between selection and drift? 
 7. How is it that drift can be quantified, but in any particular experiment, not predicted?
+8. Explain what genetic drfit is and how it influences evolution.
+
 
 **Questions to ponder**
 
@@ -78,17 +80,8 @@ is that certain traits can be over-represented in a population by chance.
 *****
 
 Before class review [youtube introduction to the genetic drift applet](http://www.youtube.com/watch?v=B5M_C8gBvYo) and
-use the [Java Genetic Drift applet](http://darwin.eeb.uconn.edu/simulations/jdk1.0/drift.html) to answer the questions (above): 
+use the [Java Genetic Drift applet](http://darwin.eeb.uconn.edu/simulations/jdk1.0/drift.html) to answer the questions (below): 
 
-Use 20 experiments for each population size (N)(from 10 to 250) **and plot the frequency of allele loss as a function of population size** after 100 generations. 
+Use 20 experiments for each population size (N)(from 10 to 250) **plot the frequency of allele loss as a function of population size** after 100 generations. Bring this to class. 
 
 - To do this you will need to determine the number of times that one or the other allele is lost for each 100 generations.  Call that number L, and the frequency of allele loss f~L~. Then f~L~ = L/20.   
-   
-	
-
- 
-	
-
-
-
-
