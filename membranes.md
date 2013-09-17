@@ -119,9 +119,7 @@ This is not how osmosis works; osmosis is actually a pretty wacky and somewhat c
 
 You already know there is an asymmetry in the solute concentrations on either side of the cell membrane ([solutes]~in~ > [solutes]~out~). For simplicity, let assume that the outside of the cell is pure water ([solutes]~out~ = 0) and the inside is a mixture of water and solutes ([solutes]~in~ = high). You also know that water and solute molecules are in constant motion (average kentic energy is related to temperature).
 
-<img src="./img/Osmosis.jpg" alt="">
-
-*Figure: Microscopic view of the a water channel in a cell membrane. Green spheres = solute molecules and blue spheres = water molecules. The inside of the cell is on the right and the outside is on the left. Pink is the cell membrane*
+![*Figure: Microscopic view of the a water channel in a cell membrane. Green spheres = solute molecules and blue spheres = water molecules. The inside of the cell is on the right and the outside is on the left. Pink is the cell membrane*](./img/Osmosis.jpg)
 
 On the inside of the membrane (and only the inside in this example), solute molecules approach, collide, and "bounce" away from the channel (just like tossing a ball against a wall). The of motion of particles headed away from the channel exerts a force on the water molecules in the channel. Since this force is directed away from the channel, water molecule are pulled through the channel and into the cell. The motion of the solute molecules inside our hypothetical cell "suck" water molecules through the membrane channel. In this example, there are no solute molecules outside to "suck" molecules in the other direction so water flows inside the cell.
 
@@ -163,9 +161,7 @@ against the cell wall at the expense of the periplasmic space.
 The force exerted by the cell wall on the membrane balances the force of
 water entering the cell.
 
-<img src="./img/turgor_pressure.png" alt="">
-
-*Figure:Turgor pressure. Hypertonic ([solutes]~out~ > [solutes]~in~), Isotonic ( [solutes]~in~ = [solutes]~out~),  and Hypotonic ([solutes]~in~ > [solutes]~out~)*
+![*Figure:Turgor pressure. Hypertonic ([solutes]~out~ > [solutes]~in~), Isotonic ( [solutes]~in~ = [solutes]~out~),  and Hypotonic ([solutes]~in~ > [solutes]~out~)*](./img/turgor_pressure.png)
 
 When the two forces are equal, the net influx of water into the cell
 stops. When the [solute] outside increases due to loss of water (e.g., drought), this pressure is reduced and the plant wilts.
