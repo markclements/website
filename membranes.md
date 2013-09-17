@@ -66,7 +66,7 @@ The process of interdependence of change is known as co-evolution.
 
 <embed width="420" height="345" src="http://www.youtube.com/v/VhUIIONM6A0" type="application/x-shockwave-flash"> </embed>
 
-> *Movie: Protocel forming from fatty acids (Click image to watch).**Note** do you understand that this video represents a three-dimensional process?*
+*Movie: Protocel forming from fatty acids (Click image to watch).**Note** do you understand that this video represents a three-dimensional process?*
 
 
 **Aqueous pores in membranes:** In the late 1940’s Collander and
