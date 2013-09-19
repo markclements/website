@@ -24,7 +24,7 @@ frequency distribution for the trait. 
 For many traits, this distribution is a **normal distribution**, You can
 identify a normal distribution because it is symmetrical around a peak;
 the peak value is the [mean of the
-distribution.](mean%20and%20deviation.htm) 
+distribution.](http://virtuallaboratory.colorado.edu/Biofundamentals/lectureNotes-Revision/mean%20and%20deviation.htm) 
 
 Generally traits that fall into a normal distribution are determined by
 the action of multiple genes.  
