@@ -1,4 +1,4 @@
-###Nucleic Acid Structure
+##Nucleic Acid Structure
 
 **What are nucleic acids?**
 
@@ -6,7 +6,7 @@ Nucleic acids are [polymers](http://en.wikipedia.org/wiki/Polymer), that
 is molecules built of repeating units. The basic repeating unit of
 nucleic acids are known as nucleotides. A nucleotide consists of three
 distinct chemical groups, a 5-carbon sugar (ribose or deoxyribose), a
-nitrogen-rich base **-** (cytosine (C), guanine (G), adenine (A),
+nitrogen-rich base - (cytosine (C), guanine (G), adenine (A),
 thymine (T) in DNA or uracil (U) instead of T (in RNA), and phosphate.
 
 The nitrogenous base, either a
@@ -47,7 +47,6 @@ phosphodiester linked nucleotides, and a direction.
 
 ![*Figure: nucleotide polymerization*](./img/nucleotide%20polymerization.jpg)
 
-
 Nucleotide assembly into polymers is a thermodynamically unfavorable
 reaction made possible because it is coupled to thermodynamically
 favorable NTP hydrolysis (ADP formation) reactions.
@@ -62,7 +61,7 @@ nucleic acid (N) + nucleotide triphosphate ↔ nucleic acid (N+1) + diphosphate 
 
 **Discovering the structure of DNA**
 
- A critical clue to understanding the structure of nucleic acids came
+A critical clue to understanding the structure of nucleic acids came
 from the work of Erwin Chargaff.
 
 When analyzing DNA, he found that the relative amounts of G, C, T and A
@@ -85,7 +84,7 @@ in the center.
 
 ![ ](./img/DNAforms.jpg)
 
-[Crick-Watson-Franklin](../../BioFun-Support/labs/Watson-Crick-Franklin/Watson-Crick-Franklin.html)
+[Crick-Watson-Franklin](http://virtuallaboratory.colorado.edu/BioFun-Support/labs/Watson-Crick-Franklin/Watson-Crick-Franklin.html)
 
 Their model was for what is now known as B-form DNA. Under different
 conditions, DNA can form two other double helical forms, known as the A
@@ -97,7 +96,6 @@ lower surfaces of the rings are hydrophobic, while the edges are
 hydrophilic.
 
 ![atp space](./img/atpSIDEfill.jpg) ![atp wire](./img/atpSIDEwire.jpg)
-
 
 This means that the same factors that favor the assembly of lipids into
 membranes are involved in nucleic acid structure.

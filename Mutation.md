@@ -77,7 +77,8 @@ Such “molecular level” conflicts could greatly limit evolution. This problem
 by the fact that genomes are not static, there are processes of gene duplication and 
 genome rearrangements that occur continuously. Such events even occur during embryonic 
 development, not all cells in your body have exactly the same genome. 
-[[link](http://www.annualreviews.org/doi/abs/10.1146/annurev.genom.9.081307.164217)][[link](http://salk.academia.edu/MikeMcConnell/Papers/287571/LINE-1_retrotransposons_mediators_of_somatic_variation_in_neuronal_genomes)]
+[[link 1](http://www.annualreviews.org/doi/abs/10.1146/annurev.genom.9.081307.164217)
+[link 2](http://salk.academia.edu/MikeMcConnell/Papers/287571/LINE-1_retrotransposons_mediators_of_somatic_variation_in_neuronal_genomes)]
 
 ![*Figure: Gene duplication and new genes*](./img/gene%20duplication%20and%20neofunction.jpg)
 

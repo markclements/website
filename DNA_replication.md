@@ -138,6 +138,9 @@ produce a single, uninterrupted replicated strand.
 
 ![replication fork 2](./img/ReplicationFork2.jpg)
 
+ <img src="./img/Figure_09_02_03.png" alt="DNA replication" height="300" width="600"> 
+
+
 Eukaryotic cells can contain more than 1000 times the DNA found in a
 typical bacterial cell. Moreover, the eukaryotic DNA replication enzyme
 complex is much slower (about 1/20th as fast) than the prokaryotic
@@ -153,8 +156,6 @@ segregation) of closed circular DNA molecules, as well as extremely long
 linear DNA molecules.
 
 <embed width="420" height="345" src="http://www.youtube.com/v/EYGrElVyHnU" type="application/x-shockwave-flash"> </embed>
-
-http://www.youtube.com/watch?v=EYGrElVyHnU&feature=player_embedded
 
 The replication of DNA unwinds the DNA, and this unwinding requires
 topoisomerases to allow replication to continue. 
@@ -186,7 +187,7 @@ forward to if anyone goes on to take Molecular Biology!)
 5.  Make a cartoon of a prokaryotic chromosome, indicate where
     replication starts and stops. Now make a cartoon of a eukaryotic
     chromosomes. What specific issues are associated with the
-    termination of DNA in each case?
+    termination of DNA replication in each case?
 6.  List all of the unrealistic components in the replication video?
 7.  Is an RNA primer needed to make an mRNA, do you think?
 8.  Why is only a single RNA primer needed to synthesize the leading
