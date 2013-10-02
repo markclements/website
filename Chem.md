@@ -29,7 +29,7 @@ Because the number of positively charged protons and negatively charged electron
 
 + Is it obvious that the material world is composed of atoms? 
  
-**London dispersion forces (a universal glue):** All atoms and molecules interact with one another through what are known as London dispersion forces (LDF), these are the basis for **[van der Waals interactions](http://chemwiki.ucdavis.edu/Physical_Chemistry/Quantum_Mechanics Intermolecular_Forces/Van_Der_Waals_Interactions)**.
+**London dispersion forces (a universal glue):** All atoms and molecules interact with one another through what are known as London dispersion forces (LDF), these are the basis for **[van der Waals interactions](http://en.wikipedia.org/wiki/Van_der_Waals_force)**.
 
 LDF arise from the weak electrical fields that arise from the movement of negatively (-) charged electrons around positively (+) charged nuclei. These movements lead to a weak and "flickering" electrical field, a temporary dipole,
 

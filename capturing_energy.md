@@ -59,7 +59,7 @@ O~2~ ↔ nCO~2~ + nH~2~O**\
 
 *Figure: Cellulose is a polymer of glucose (sugar)*
 
-This reaction has a high negative free energy ( ΔG), it is exothermic.
+This reaction has a high negative free energy (ΔG), it is exothermic.
 That means, the energy stored in the bonds of cellulose and O~2~ is less
 than that stored in the bonds of CO~2~ and H~2~O. The difference is
 released as heat (thermal motion, that is increased kinetic energy).

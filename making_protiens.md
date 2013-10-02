@@ -13,9 +13,7 @@ both DNA and RNA.
 
 Transcription is mediated by DNA-dependent, RNA polymerase, an enzyme
 that builds an RNA molecule using a DNA molecule.  We will return to
-consider the process of transcription and its regulation later when we
-come to Genomes and Genes (reading 26) and Regulatory networks (reading
-27).
+consider the process of transcription and its regulation later.
 
 When the information is to be used to produce a polypeptide, the RNA is
 known as a messenger RNA or
@@ -39,9 +37,10 @@ certain amino acids are encoded for by more than one codon.
 
 There are also three codons, UAA, UAG and UGA that encode “stops” or
 periods.
+ 
+<img src="./img/Figure_09_04_02.jpg" alt="Genetic code algorithm" width="400" height="350">
 
-[![genetic code](./img/Genetic%20Code.jpg)\
- the genetic code algorithm](http://en.wikipedia.org/wiki/Genetic_code)
+[*Figure: The genetic code algorithm*](http://en.wikipedia.org/wiki/Genetic_code)
 
 In addition to the common 20 amino/imino acids, there are times when
 other amino acids are used, in particular selenocysteine and
@@ -173,7 +172,8 @@ into place.
 
 Each codon is recognized by an amino acid-charged tRNA.
 
-![Translation](./img/translationSteps.jpg)
+
+ <img src="./img/Figure_09_04_03.jpg" alt="Translation Steps" width="250" height="420">
 
 This is a stochastic process , on average many amino-acid charged tRNAs
 will collide with the ribosome before the “right” one (determined by the

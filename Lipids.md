@@ -108,9 +108,9 @@ the exposure of their hydrophobic groups to water and to maximize their hydrophi
 
 This entropy-driven process leads to the formation of a bilayer membrane.
 
-<embed width="420" height="345" src="http://www.youtube.com/v/UyNiAYaVhMQ" type="application/x-shockwave-flash"> </embed>
+<embed width="420" height="345" src="http://www.youtube.com/v/lm-dAvbl330" type="application/x-shockwave-flash"> </embed>
 
-> *Movie: Click the image and watch an animation of a phospholipid membrane in action!* 
+*Movie: Click the image and watch an animation of a lipid membrane forming spontaneously* 
 
 * * * * *
 
