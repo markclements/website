@@ -247,7 +247,7 @@ synthesize of carbohydrate from CO~2~ and H~2~O according to the formula
 ![arrow](./img/GoingRight.gif)![arrow](./img/GoingRight.gif)
 C~6~H~12~O~6~ + 6O~2~.
 
-![*Figure: Plants build themselves using carbon from the atmosphere (CO~2~)*](./img/Van_20Helmont.jpg)
+![*Figure: Plants build themselves using carbon from the atmosphere (CO~2~)*](./img/Van_Helmont.jpg)
 
 Now you might be wondering, where are the electrons coming from in
 non-cyclic photosynthesis?
