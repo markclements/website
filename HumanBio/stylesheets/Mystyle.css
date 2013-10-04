@@ -115,9 +115,9 @@ pre code {
     color:#737373;
     font-size: 11px;
 }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 700px) {
     body {
-        width: 600px;
+        width: 700px;
         margin:10px;
     }
 }
