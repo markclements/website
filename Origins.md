@@ -157,7 +157,7 @@ the dead. The Hadean is defined as the period before the appearance of
 life. The first evidence of biological processes appear in rocks that
 are \~3.8 to 3.5 x 10^9^ years.
 
-![*Figure:Geologic timescale of earth*](./img/Geo.png)
+![*Figure:Geologic timescale of earth*](./img/Geo.PNG)
 
 We do not know how many times life arose on the early earth, all we do
 know is that all of the current organisms we have studied are descended
