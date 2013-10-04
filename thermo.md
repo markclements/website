@@ -41,9 +41,8 @@ The forward reaction flux equals the back reaction flux.
 The equilibrium constant, K~eq~, is defined as the forward rate
 constant, *k~f~* divided by the backward rate constant, k~r~.
 
-[![*Equilibrium constant*](./img/finalEquation.jpg)](http://www.ncbi.nlm.nih.gov/books/NBK21503/)
 
-*Equilibrium constant: Click the image to learn more*
+![*Figure: Equilibrium constant. Click [HERE](http://www.ncbi.nlm.nih.gov/books/NBK21503/) to learn more*](./img/finalEquation.jpg)
 
 * * * * *
 
