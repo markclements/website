@@ -1,0 +1,168 @@
+<db:book xmlns:db="http://docbook.org/ns/docbook" xmlns:ext="http://cnx.org/ns/docbook+" ext:site-type="Connexions" ext:element="module" lang="en" ext:url="http://cnx.org/content/m44745/latest/" ext:version="1.2" xml:id="m44745" xml:lang="en" class="introduction"><db:bookinfo ext:repository="http://cnx.org/content"><db:title>Introduction</db:title>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  
+  
+  
+  
+  <db:edition>1.2</db:edition>
+  
+  <db:pubdate>2013/03/07 11:24:12 -0600</db:pubdate>
+  
+  <db:authorgroup>
+    <db:author ext:user-id="OpenStaxCollege" ext:role="author">
+      
+      <db:firstname>OpenStax College</db:firstname>
+      <db:email>info@openstaxcollege.org</db:email>
+    </db:author>
+    
+    <db:othercredit class="other" ext:user-id="OSCRiceUniversity" ext:role="licensor">
+      <db:firstname>Rice</db:firstname>
+      <db:surname>University</db:surname>
+      
+      <db:email>daniel@openstaxcollege.org</db:email>
+    <db:contrib>licensor</db:contrib></db:othercredit>
+  </db:authorgroup>
+  <db:legalnotice>It is licensed under the Creative Commons Attribution License: <db:ulink url="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</db:ulink></db:legalnotice>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <db:keywordset>
+    <db:keyword>acetylcholine</db:keyword>
+    <db:keyword>action potential</db:keyword>
+    <db:keyword>action potential propagation</db:keyword>
+    <db:keyword>ADD</db:keyword>
+    <db:keyword>ADHD</db:keyword>
+    <db:keyword>Alzheimer's disease</db:keyword>
+    <db:keyword>amygdala</db:keyword>
+    <db:keyword>arachnoid mater</db:keyword>
+    <db:keyword>ASD</db:keyword>
+    <db:keyword>astrocyte</db:keyword>
+    <db:keyword>attention deficit</db:keyword>
+    <db:keyword>attention deficit disorder</db:keyword>
+    <db:keyword>attention deficit hyperactivity disorder</db:keyword>
+    <db:keyword>autism</db:keyword>
+    <db:keyword>autism spectrum disorder</db:keyword>
+    <db:keyword>autonomic nervous system</db:keyword>
+    <db:keyword>axon</db:keyword>
+    <db:keyword>axon hillock</db:keyword>
+    <db:keyword>axon terminal</db:keyword>
+    <db:keyword>basal ganglia</db:keyword>
+    <db:keyword>basal nuclei</db:keyword>
+    <db:keyword>brain</db:keyword>
+    <db:keyword>brain-computer interface</db:keyword>
+    <db:keyword>brainstem</db:keyword>
+    <db:keyword>central nervous system</db:keyword>
+    <db:keyword>cerebellum</db:keyword>
+    <db:keyword>cerebral cortex</db:keyword>
+    <db:keyword>cerebral hemisphere</db:keyword>
+    <db:keyword>cerebrospinal fluid</db:keyword>
+    <db:keyword>charged membrane</db:keyword>
+    <db:keyword>chemical synapse</db:keyword>
+    <db:keyword>choroid plexus</db:keyword>
+    <db:keyword>cingulated gyrus</db:keyword>
+    <db:keyword>CNS</db:keyword>
+    <db:keyword>corpus callosum</db:keyword>
+    <db:keyword>cranial nerve</db:keyword>
+    <db:keyword>CSF</db:keyword>
+    <db:keyword>dendrite</db:keyword>
+    <db:keyword>depolarization</db:keyword>
+    <db:keyword>depression</db:keyword>
+    <db:keyword>dura mater</db:keyword>
+    <db:keyword>electrical synapse</db:keyword>
+    <db:keyword>ependymal</db:keyword>
+    <db:keyword>epilepsy</db:keyword>
+    <db:keyword>EPSP</db:keyword>
+    <db:keyword>excitatory postsynaptic potential</db:keyword>
+    <db:keyword>frontal lobe</db:keyword>
+    <db:keyword>glia</db:keyword>
+    <db:keyword>glia function</db:keyword>
+    <db:keyword>glial cell</db:keyword>
+    <db:keyword>glia types</db:keyword>
+    <db:keyword>gyri</db:keyword>
+    <db:keyword>gyrus</db:keyword>
+    <db:keyword>hippocampus</db:keyword>
+    <db:keyword>hyperpolarization</db:keyword>
+    <db:keyword>hypothalamus</db:keyword>
+    <db:keyword>inhibitory postsynaptic potential</db:keyword>
+    <db:keyword>IPSP</db:keyword>
+    <db:keyword>limbic system</db:keyword>
+    <db:keyword>long-term depression</db:keyword>
+    <db:keyword>long-term potentiation</db:keyword>
+    <db:keyword>LTD</db:keyword>
+    <db:keyword>LTP</db:keyword>
+    <db:keyword>major depression</db:keyword>
+    <db:keyword>membrane potential</db:keyword>
+    <db:keyword>meninge</db:keyword>
+    <db:keyword>mental illness</db:keyword>
+    <db:keyword>microglia</db:keyword>
+    <db:keyword>myelin</db:keyword>
+    <db:keyword>nerve impulse transmission</db:keyword>
+    <db:keyword>nervous system</db:keyword>
+    <db:keyword>nervous system disorder</db:keyword>
+    <db:keyword>neurodegenerative disorder</db:keyword>
+    <db:keyword>neurogenesis</db:keyword>
+    <db:keyword>neurological disorder</db:keyword>
+    <db:keyword>neurologist</db:keyword>
+    <db:keyword>neuron</db:keyword>
+    <db:keyword>neuron communication</db:keyword>
+    <db:keyword>neuron parts</db:keyword>
+    <db:keyword>neuron structure</db:keyword>
+    <db:keyword>neuron type</db:keyword>
+    <db:keyword>nodes of Ranvier</db:keyword>
+    <db:keyword>norepinephrine</db:keyword>
+    <db:keyword>occipital lobe</db:keyword>
+    <db:keyword>oligodendrocyte</db:keyword>
+    <db:keyword>parasympathetic nervous system</db:keyword>
+    <db:keyword>parietal lobe</db:keyword>
+    <db:keyword>Parkinson's disease</db:keyword>
+    <db:keyword>peripheral nervous system</db:keyword>
+    <db:keyword>pia mater</db:keyword>
+    <db:keyword>PNS</db:keyword>
+    <db:keyword>proprioception</db:keyword>
+    <db:keyword>radial glia</db:keyword>
+    <db:keyword>refractory period</db:keyword>
+    <db:keyword>resting membrane potential</db:keyword>
+    <db:keyword>saltatory conduction</db:keyword>
+    <db:keyword>satellite glia</db:keyword>
+    <db:keyword>schizophrenia</db:keyword>
+    <db:keyword>Schwann cell</db:keyword>
+    <db:keyword>sensory-somatic nervous system</db:keyword>
+    <db:keyword>signal summation</db:keyword>
+    <db:keyword>somatosensation</db:keyword>
+    <db:keyword>spinal cord</db:keyword>
+    <db:keyword>spinal nerve</db:keyword>
+    <db:keyword>stroke</db:keyword>
+    <db:keyword>sulci</db:keyword>
+    <db:keyword>sulcus</db:keyword>
+    <db:keyword>summation</db:keyword>
+    <db:keyword>sympathetic nervous system</db:keyword>
+    <db:keyword>synapse</db:keyword>
+    <db:keyword>synaptic cleft</db:keyword>
+    <db:keyword>synaptic plasticity</db:keyword>
+    <db:keyword>synaptic transmission</db:keyword>
+    <db:keyword>synaptic vesicle</db:keyword>
+    <db:keyword>temporal lobe</db:keyword>
+    <db:keyword>thalamus</db:keyword>
+    <db:keyword>threshold of excitation</db:keyword>
+    <db:keyword>ventricle</db:keyword>
+  </db:keywordset>
+  <db:subjectset>
+    <db:subject>Science and Technology</db:subject>
+  </db:subjectset>
+  <db:abstract><db:para/></db:abstract>
+  
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+<db:mediaobject role="cover"><db:imageobject><db:imagedata format="PNG" fileref="cover.png"/></db:imageobject></db:mediaobject></db:bookinfo><db:preface><db:prefaceinfo ext:repository="http://cnx.org/content"><db:title>Introduction</db:title><db:abstract><db:para/></db:abstract></db:prefaceinfo>
+
+    <?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+<db:figure xml:id="m44745-fig-ch35_00_01" class="splash"><db:mediaobject xml:id="m44745-fs-idp140338935354976"><db:textobject><db:phrase>Illustration shows a woman, upside-down with an arched back, going over a pole vault.</db:phrase></db:textobject><db:imageobject format="JPEG" xml:id="m44745-id1742037"><db:imagedata fileref="Figure_35_00_01.jpg" width="600"/></db:imageobject></db:mediaobject>
+<db:caption>An athlete&#8217;s nervous system is hard at work during the planning and execution of a movement as precise as a high jump. Parts of the nervous system are involved in determining how hard to push off and when to turn, as well as controlling the muscles throughout the body that make this complicated movement possible without knocking the bar down&#8212;all in just a few seconds. (credit: modification of work by Shane T. McCoy, U.S. Navy)</db:caption></db:figure><db:para xml:id="m44745-fs-idp140338927671808">When you&#8217;re reading this book, your nervous system is performing several functions simultaneously. The visual system is processing what is seen on the page; the motor system controls the turn of the pages (or click of the mouse); the prefrontal cortex maintains attention. Even fundamental functions, like breathing and regulation of body temperature, are controlled by the nervous system. A nervous system is an organism&#8217;s control center: it processes sensory information from outside (and inside) the body and controls all behaviors&#8212;from eating to sleeping to finding a mate.</db:para>
+</db:preface></db:book>

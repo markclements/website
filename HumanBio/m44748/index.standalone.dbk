@@ -1,0 +1,330 @@
+<db:book xmlns:db="http://docbook.org/ns/docbook" xmlns:ext="http://cnx.org/ns/docbook+" ext:site-type="Connexions" ext:element="module" lang="en" ext:url="http://cnx.org/content/m44748/latest/" ext:version="1.4" xml:id="m44748" xml:lang="en"><db:bookinfo ext:repository="http://cnx.org/content"><db:title>How Neurons Communicate</db:title>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  
+  
+  
+  
+  <db:edition>1.4</db:edition>
+  
+  <db:pubdate>2013/05/10 13:18:46 -0500</db:pubdate>
+  
+  <db:authorgroup>
+    <db:author ext:user-id="OpenStaxCollege" ext:role="author">
+      
+      <db:firstname>OpenStax College</db:firstname>
+      <db:email>info@openstaxcollege.org</db:email>
+    </db:author>
+    
+    <db:othercredit class="other" ext:user-id="OSCRiceUniversity" ext:role="licensor">
+      <db:firstname>Rice</db:firstname>
+      <db:surname>University</db:surname>
+      
+      <db:email>daniel@openstaxcollege.org</db:email>
+    <db:contrib>licensor</db:contrib></db:othercredit>
+  </db:authorgroup>
+  <db:legalnotice>It is licensed under the Creative Commons Attribution License: <db:ulink url="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</db:ulink></db:legalnotice>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <db:keywordset>
+    <db:keyword>action potential</db:keyword>
+    <db:keyword>action potential propagation</db:keyword>
+    <db:keyword>brain-computer interface</db:keyword>
+    <db:keyword>charged membrane</db:keyword>
+    <db:keyword>chemical synapse</db:keyword>
+    <db:keyword>depolarization</db:keyword>
+    <db:keyword>electrical synapse</db:keyword>
+    <db:keyword>EPSP</db:keyword>
+    <db:keyword>excitatory postsynaptic potential</db:keyword>
+    <db:keyword>hyperpolarization</db:keyword>
+    <db:keyword>inhibitory postsynaptic potential IPSP</db:keyword>
+    <db:keyword>IPSP</db:keyword>
+    <db:keyword>long-term depression</db:keyword>
+    <db:keyword>long-term potentiation</db:keyword>
+    <db:keyword>LTD</db:keyword>
+    <db:keyword>LTP</db:keyword>
+    <db:keyword>membrane potential</db:keyword>
+    <db:keyword>nerve impulse transmission</db:keyword>
+    <db:keyword>nervous system</db:keyword>
+    <db:keyword>neuron communication</db:keyword>
+    <db:keyword>refractory period</db:keyword>
+    <db:keyword>resting membrane potential</db:keyword>
+    <db:keyword>saltatory conduction</db:keyword>
+    <db:keyword>signal summation</db:keyword>
+    <db:keyword>summation</db:keyword>
+    <db:keyword>synaptic cleft</db:keyword>
+    <db:keyword>synaptic plasticity</db:keyword>
+    <db:keyword>synaptic transmission</db:keyword>
+    <db:keyword>synaptic vesicle</db:keyword>
+    <db:keyword>threshold of excitation</db:keyword>
+  </db:keywordset>
+  <db:subjectset>
+    <db:subject>Science and Technology</db:subject>
+  </db:subjectset>
+  <db:abstract><db:para>By the end of this section, you will be able to:
+<db:itemizedlist>
+<db:listitem><db:para>Describe the basis of the resting membrane potential</db:para></db:listitem>
+<db:listitem><db:para>Explain the stages of an action potential and how action potentials are propagated</db:para></db:listitem>
+<db:listitem><db:para>Explain the similarities and differences between chemical and electrical synapses</db:para></db:listitem>
+<db:listitem><db:para>Describe long-term potentiation and long-term depression</db:para></db:listitem>
+</db:itemizedlist></db:para></db:abstract>
+  
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+<db:mediaobject role="cover"><db:imageobject><db:imagedata format="PNG" fileref="cover.png"/></db:imageobject></db:mediaobject></db:bookinfo><db:preface><db:prefaceinfo ext:repository="http://cnx.org/content"><db:title>How Neurons Communicate</db:title><db:abstract><db:para>By the end of this section, you will be able to:
+<db:itemizedlist>
+<db:listitem><db:para>Describe the basis of the resting membrane potential</db:para></db:listitem>
+<db:listitem><db:para>Explain the stages of an action potential and how action potentials are propagated</db:para></db:listitem>
+<db:listitem><db:para>Explain the similarities and differences between chemical and electrical synapses</db:para></db:listitem>
+<db:listitem><db:para>Describe long-term potentiation and long-term depression</db:para></db:listitem>
+</db:itemizedlist></db:para></db:abstract></db:prefaceinfo>
+<db:para xml:id="m44748-fs-idm175753248">All functions performed by the nervous system&#8212;from a simple motor reflex to more advanced functions like making a memory or a decision&#8212;require neurons to communicate with one another. While humans use words and body language to communicate, neurons use electrical and chemical signals. Just like a person in a committee, one neuron usually receives and synthesizes messages from multiple other neurons before &#8220;making the decision&#8221; to send the message on to other neurons.</db:para>
+<db:section xml:id="m44748-fs-idm306684336"><db:title>Nerve Impulse Transmission within a Neuron</db:title>
+
+<db:para xml:id="m44748-fs-idm42661904">For the nervous system to function, neurons must be able to send and receive signals. These signals are possible because each neuron has a charged cellular membrane (a voltage difference between the inside and the outside), and the charge of this membrane can change in response to neurotransmitter molecules released from other neurons and environmental stimuli. To understand how neurons communicate, one must first understand the basis of the baseline or &#8216;resting&#8217; membrane charge.</db:para>
+<db:section xml:id="m44748-fs-idm92021888"><db:title>Neuronal Charged Membranes</db:title>
+
+<db:para xml:id="m44748-fs-idm247384272">The lipid bilayer membrane that surrounds a neuron is impermeable to charged molecules or ions. To enter or exit the neuron, ions must pass through special proteins called ion channels that span the membrane. Ion channels have different configurations: open, closed, and inactive, as illustrated in <db:xref linkend="m44748-fig-ch35_02_01" target-id="fig-ch35_02_01" document="m44748"/>. Some ion channels need to be activated in order to open and allow ions to pass into or out of the cell. These ion channels are sensitive to the environment and can change their shape accordingly. Ion channels that change their structure in response to voltage changes are called voltage-gated ion channels. Voltage-gated ion channels regulate the relative concentrations of different ions inside and outside the cell. The difference in total charge between the inside and outside of the cell is called the <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1725798">membrane potential</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1725798"><db:primary>membrane potential</db:primary></db:indexterm>.</db:para>
+<db:figure xml:id="m44748-fig-ch35_02_01" class=" "><db:mediaobject xml:id="m44748-fs-idm166511808"><db:textobject><db:phrase>The first image shows a voltage-gated sodium channel that is closed at the resting potential. In response to a nerve impulse the channel opens, allowing sodium to enter the cell. After the impulse the channel enters an inactive state. The channel closes by a different mechanism and, for a brief period does not reopen in response to a new nerve impulse.</db:phrase></db:textobject><db:imageobject format="JPEG" xml:id="m44748-id1725813"><db:imagedata fileref="Figure_35_02_01.jpg" width="550"/></db:imageobject></db:mediaobject>
+<db:caption>Voltage-gated ion channels open in response to changes in membrane voltage. After activation, they become inactivated for a brief period and will no longer open in response to a signal.</db:caption></db:figure><db:note xml:id="m44748-fs-idm165717008" class="interactive"><db:title>Link to Learning</db:title>
+<db:mediaobject xml:id="m44748-fs-idm200392096"><db:textobject><db:phrase>QR Code representing a URL</db:phrase></db:textobject><db:imageobject format="PNG" xml:id="m44748-id1717690"><db:imagedata fileref="resting_neuron.png" width="120"/></db:imageobject></db:mediaobject>
+<db:para xml:id="m44748-fs-idm211769504">This <db:link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://openstaxcollege.org/l/resting_neuron" ext:document="m44748" ext:resource="" window="new" url="http://openstaxcollege.org/l/resting_neuron">video</db:link> discusses the basis of the resting membrane potential.</db:para>
+</db:note></db:section>
+<db:section xml:id="m44748-fs-idm73176144"><db:title>Resting Membrane Potential</db:title><db:para xml:id="m44748-fs-idm230881984">A neuron at rest is negatively charged: the inside of a cell is approximately 70 millivolts more negative than the outside (&#8722;70 mV, note that this number varies by neuron type and by species). This voltage is called the resting membrane potential; it is caused by differences in the concentrations of ions inside and outside the cell. If the membrane were equally permeable to all ions, each type of ion would flow across the membrane and the system would reach equilibrium. Because ions cannot simply cross the membrane at will, there are different concentrations of several ions inside and outside the cell, as shown in <db:xref linkend="m44748-tab-ch35_02_01" target-id="tab-ch35_02_01" document="m44748"/>. The difference in the number of positively charged potassium ions (K<db:superscript>+</db:superscript>) inside and outside the cell dominates the resting membrane potential (<db:xref linkend="m44748-fig-ch35_02_02" target-id="fig-ch35_02_02" document="m44748"/>). When the membrane is at rest, K<db:superscript>+</db:superscript> ions accumulate inside the cell due to a net movement with the concentration gradient. The negative resting membrane potential is created and maintained by increasing the concentration of cations outside the cell (in the extracellular fluid) relative to inside the cell (in the cytoplasm). The negative charge within the cell is created by the cell membrane being more permeable to potassium ion movement than sodium ion movement. In neurons, potassium ions are maintained at high concentrations within the cell while sodium ions are maintained at high concentrations outside of the cell. The cell possesses potassium and sodium leakage channels that allow the two cations to diffuse down their concentration gradient. However, the neurons have far more potassium leakage channels than sodium leakage channels. Therefore, potassium diffuses out of the cell at a much faster rate than sodium leaks in. Because more cations are leaving the cell than are entering, this causes the interior of the cell to be negatively charged relative to the outside of the cell. The actions of the sodium potassium pump help to maintain the resting potential, once established. Recall that  sodium potassium pumps brings two K<db:superscript>+</db:superscript> ions into the cell while removing three Na<db:superscript>+</db:superscript> ions per ATP consumed. As more cations are expelled from the cell than taken in, the inside of the cell remains negatively charged relative to the extracellular fluid. It should be noted that calcium ions (Cl<db:superscript>&#8211;</db:superscript>) tend to accumulate outside of the cell because they are repelled by negatively-charged proteins within the cytoplasm.</db:para><db:table xml:id="m44748-tab-ch35_02_01" summary=""><db:tgroup cols="4" align="left">
+    <db:colspec colnum="1" colname="c1"/>
+    <db:colspec colnum="2" colname="c2"/>
+    <db:colspec colnum="3" colname="c3"/>
+    <db:colspec colnum="4" colname="c4"/>
+    <db:thead>
+        <db:row>
+            <db:entry namest="c1" nameend="c4">Ion Concentration Inside and Outside Neurons</db:entry>
+        </db:row>
+        <db:row>
+            <db:entry>Ion</db:entry>
+            <db:entry>Extracellular concentration (mM)</db:entry>
+            <db:entry>Intracellular concentration (mM)</db:entry>
+            <db:entry>Ratio outside/inside</db:entry>
+        </db:row>
+    </db:thead>
+    <db:tbody>
+        <db:row>
+            <db:entry>Na<db:superscript>+</db:superscript></db:entry>
+            <db:entry>145</db:entry>
+            <db:entry>12</db:entry>
+            <db:entry>12</db:entry>
+        </db:row>
+        <db:row>
+            <db:entry>K+</db:entry>
+            <db:entry>4</db:entry>
+            <db:entry>155</db:entry>
+            <db:entry>0.026</db:entry>
+        </db:row>
+        <db:row>
+            <db:entry>Cl<db:superscript>&#8722;</db:superscript></db:entry>
+            <db:entry>120</db:entry>
+            <db:entry>4</db:entry>
+            <db:entry>30</db:entry>
+        </db:row>
+        <db:row>
+            <db:entry>Organic anions (A&#8722;)</db:entry>
+            <db:entry>&#8212;</db:entry>
+            <db:entry>100</db:entry>
+            <db:entry/>
+        </db:row>
+    </db:tbody>
+</db:tgroup>
+<db:caption>The resting membrane potential is a result of different concentrations inside and outside the cell.</db:caption></db:table><db:figure xml:id="m44748-fig-ch35_02_02" class=" "><db:mediaobject xml:id="m44748-fs-idm209022016"><db:textobject><db:phrase>The resting membrane potential of minus seventy volts is maintained by a sodium/potassium transporter that transports sodium ions out of the cell and potassium ions in. Voltage gated sodium and potassium channels are closed. In response to a nerve impulse, some sodium channels open, allowing sodium ions to enter the cell. The membrane starts to depolarize; in other words, the charge across the membrane lessens. If the membrane potential increases to the threshold of excitation, all the sodium channels open. At the peak action potential, potassium channels open and potassium ions leave the cell. The membrane eventually becomes hyperpolarized.</db:phrase></db:textobject><db:imageobject format="JPEG" xml:id="m44748-id1720830"><db:imagedata fileref="Figure_35_02_02.jpg" width="550"/></db:imageobject></db:mediaobject>
+<db:caption>The (a) resting membrane potential is a result of different concentrations of Na<db:superscript>+</db:superscript> and K<db:superscript>+</db:superscript> ions inside and outside the cell. A nerve impulse causes Na<db:superscript>+</db:superscript> to enter the cell, resulting in (b) depolarization. At the peak action potential, K<db:superscript>+</db:superscript> channels open and the cell becomes (c) hyperpolarized.</db:caption>
+</db:figure>
+</db:section>
+<db:section xml:id="m44748-fs-idm71940272"><db:title>Action Potential</db:title><db:para xml:id="m44748-fs-idm47351648">A neuron can receive input from other neurons and, if this input is strong enough, send the signal to downstream neurons. Transmission of a signal between neurons is generally carried by a chemical called a neurotransmitter. Transmission of a signal within a neuron (from dendrite to axon terminal) is carried by a brief reversal of the resting membrane potential called an <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1731884">action potential</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1731884"><db:primary>action potential</db:primary></db:indexterm>. When neurotransmitter molecules bind to receptors located on a neuron&#8217;s dendrites, ion channels open. At excitatory synapses, this opening allows positive ions to enter the neuron and results in <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1731889">depolarization</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1731889"><db:primary>depolarization</db:primary></db:indexterm> of the membrane&#8212;a decrease in the difference in voltage between the inside and outside of the neuron. A stimulus from a sensory cell or another neuron depolarizes the target neuron to  its threshold potential (-55 mV). Na<db:superscript>+</db:superscript> channels in the axon hillock open, allowing positive ions to enter the cell (<db:xref linkend="m44748-fig-ch35_02_02" target-id="fig-ch35_02_02" document="m44748"/> and <db:xref linkend="m44748-fig-ch35_02_03" target-id="fig-ch35_02_03" document="m44748"/>). Once the sodium channels open, the neuron completely depolarizes to a membrane potential of about +40 mV.  Action potentials are considered an "all-or nothing" event, in that, once the threshold potential is reached, the neuron always completely depolarizes. Once depolarization is complete, the cell must now "reset" its membrane voltage back to the resting potential. To accomplish this, the Na<db:superscript>+</db:superscript> channels close and cannot be opened. This begins the neuron's <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1731919">refractory period</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1731919"><db:primary>refractory period</db:primary></db:indexterm>, in which it cannot produce another action potential because its sodium channels will not open. At the same time, voltage-gated K<db:superscript>+</db:superscript> channels open, allowing K<db:superscript>+</db:superscript> to leave the cell. As K<db:superscript>+</db:superscript> ions leave the cell, the membrane potential once again becomes negative. The diffusion of K<db:superscript>+</db:superscript> out of the cell actually <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1731938">hyperpolarizes</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1731938"><db:primary>hyperpolarizes</db:primary></db:indexterm> the cell, in that the membrane potential becomes more negative than the cell's normal resting potential. At this point, the sodium channels will return to their resting state, meaning they are ready to open again if the membrane potential again  exceeds the threshold potential. Eventually the extra K<db:superscript>+</db:superscript> ions diffuse out of the cell through the potassium leakage channels, bringing the cell from its hyperpolarized state, back to its resting membrane potential. 
+</db:para><db:note xml:id="m44748-fs-idm183942256" class="art-connection"><db:title>Art Connection</db:title>
+
+<db:para xml:id="m44748-eip-idp10005600">
+<db:figure xml:id="m44748-fig-ch35_02_03" class=" "><db:inlinemediaobject xml:id="m44748-fs-idp51062976"><db:textobject><db:phrase>Graph plots membrane potential in millivolts versus time. The membrane remains at the resting potential of -70 millivolts until a nerve impulse occurs in step 1. Some sodium channels open, and the potential begins to rapidly climb past the threshold of excitation of -55 millivolts, at which point all the sodium channels open. At the peak action potential, the potential begins to rapidly drop as potassium channels open and sodium channels close. As a result, the membrane repolarizes past the resting membrane potential and becomes hyperpolarized. The membrane potential then gradually returns to normal.</db:phrase></db:textobject><db:imageobject format="PNG" xml:id="m44748-id1731774"><db:imagedata fileref="Figure_35_02_03.png" width="300"/></db:imageobject></db:inlinemediaobject>
+
+<db:caption>The formation of an action potential can be divided into five steps: (1)  A stimulus from a sensory cell or another neuron causes the target cell to depolarize toward the threshold potential. (2) If the threshold of excitation is reached, all Na<db:superscript>+</db:superscript> channels open and the membrane depolarizes. (3) At the peak action potential, K<db:superscript>+</db:superscript> channels open and K<db:superscript>+</db:superscript> begins to leave the cell. At the same time, Na<db:superscript>+</db:superscript> channels close. (4) The membrane becomes hyperpolarized as K<db:superscript>+</db:superscript> ions continue to leave the cell. The hyperpolarized membrane is in a refractory period and cannot fire. (5) The K<db:superscript>+</db:superscript> channels close and the Na<db:superscript>+</db:superscript>/K<db:superscript>+</db:superscript> transporter restores the resting potential.</db:caption></db:figure></db:para>
+<db:para xml:id="m44748-fs-idm185744880"> Potassium channel blockers, such as amiodarone and procainamide, which are used to treat abnormal electrical activity in the heart, called cardiac dysrhythmia, impede the movement of K<db:superscript>+</db:superscript> through voltage-gated K<db:superscript>+</db:superscript> channels. Which part of the action potential would you expect potassium channels to affect?</db:para>
+<!--<para><link target-id="fig-ch35_02_03" document=""/> Potassium channel blockers slow the repolarization phase, but have no effect on depolarization.</para>-->
+</db:note><db:figure xml:id="m44748-fig-ch35_02_04" class=" "><db:mediaobject xml:id="m44748-fs-idm95698368"><db:textobject><db:phrase>The action potential travels from the soma down the axon to the axon terminal. The action potential is initiated when a signal from the soma causes the soma-end of the axon membrane to depolarize. The depolarization spreads down the axon. Meanwhile, the membrane at the start of the axon repolarizes. Because potassium channels are open, the membrane cannot depolarize again. The action potential continues to spread down the axon this way.</db:phrase></db:textobject><db:imageobject format="PNG" xml:id="m44748-id1728007"><db:imagedata fileref="Figure_35_02_04.png" width="575"/></db:imageobject></db:mediaobject>
+<db:caption>The action potential is conducted down the axon as the axon membrane depolarizes, then repolarizes.</db:caption></db:figure><db:note xml:id="m44748-fs-idm217550432" class="interactive"><db:title>Link to Learning</db:title>
+    <db:mediaobject xml:id="m44748-fs-idm151858192"><db:textobject><db:phrase>QR Code representing a URL</db:phrase></db:textobject><db:imageobject format="PNG" xml:id="m44748-id1728044"><db:imagedata fileref="action_potential.png" width="120"/></db:imageobject></db:mediaobject>
+    <db:para xml:id="m44748-fs-idm62600496">This <db:link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://openstaxcollege.org/l/actionpotential" ext:document="m44748" ext:resource="" window="new" url="http://openstaxcollege.org/l/actionpotential">video</db:link> presents an overview of action potential.</db:para>
+</db:note></db:section><db:section xml:id="m44748-fs-idm251216928"><db:title>Myelin and the Propagation of the Action Potential</db:title>
+
+<db:para xml:id="m44748-fs-idm83399120">For an action potential to communicate information to another neuron, it must travel along the axon and reach the axon terminals where it can initiate neurotransmitter release. The speed of conduction of an action potential along an axon is influenced by both the diameter of the axon and the axon&#8217;s resistance to current leak. Myelin acts as an insulator that prevents current from leaving the axon; this increases the speed of action potential conduction. In demyelinating diseases like multiple sclerosis, action potential conduction slows because current leaks from previously insulated axon areas. The nodes of Ranvier, illustrated in <db:xref linkend="m44748-fig-ch35_02_05" target-id="fig-ch35_02_05" document="m44748"/> are gaps in the myelin sheath along the axon. These unmyelinated spaces are about one micrometer long and contain voltage gated Na<db:superscript>+</db:superscript> and K<db:superscript>+</db:superscript> channels. Flow of ions through these channels, particularly the Na<db:superscript>+</db:superscript> channels, regenerates the action potential over and over again along the axon. This &#8216;jumping&#8217; of the action potential from one node to the next is called <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1734372">saltatory conduction</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1734372"><db:primary>saltatory conduction</db:primary></db:indexterm>. If nodes of Ranvier were not present along an axon, the action potential would propagate very slowly since Na<db:superscript>+</db:superscript> and K<db:superscript>+</db:superscript> channels would have to continuously regenerate action potentials at every point along the axon instead of at specific points. Nodes of Ranvier also save energy for the neuron since the channels only need to be present at the nodes and not along the entire axon.</db:para><db:figure xml:id="m44748-fig-ch35_02_05" class=" "><db:mediaobject xml:id="m44748-fs-idm213334784"><db:textobject><db:phrase>Illustration shows an axon covered in three bands of myelin sheath. Between the sheath coverings the axon is exposed. The uncovered parts of the axon are called nodes of Ranvier. In the illustration, the left node of Ranvier is depolarized such that the membrane potential is positive inside and negative outside. The right membrane of the right node is at the resting potential, negative inside and positive outside. An arrow indicates that the depolarization jumps from the left node to the right, so that the right node becomes depolarized.</db:phrase></db:textobject><db:imageobject format="JPEG" xml:id="m44748-id1734406"><db:imagedata fileref="Figure_35_02_05.jpg" width="320"/></db:imageobject></db:mediaobject>
+<db:caption>Nodes of Ranvier are gaps in myelin coverage along axons. Nodes contain voltage-gated K<db:superscript>+</db:superscript> and Na<db:superscript>+</db:superscript> channels. Action potentials travel down the axon by jumping from one node to the next.</db:caption></db:figure></db:section>
+    </db:section>
+    <db:section xml:id="m44748-fs-idm217900192"><db:title>Synaptic Transmission</db:title>
+
+<db:para xml:id="m44748-fs-idm38017968">The synapse or &#8220;gap&#8221; is the place where information is transmitted from one neuron to another. Synapses usually form between axon terminals and dendritic spines, but this is not universally true. There are also axon-to-axon, dendrite-to-dendrite, and axon-to-cell body synapses. The neuron transmitting the signal is called the presynaptic neuron, and the neuron receiving the signal is called the postsynaptic neuron. Note that these designations are relative to a particular synapse&#8212;most neurons are both presynaptic and postsynaptic. There are two types of synapses: chemical and electrical.</db:para>
+<db:section xml:id="m44748-fs-idm96975168"><db:title>Chemical Synapse</db:title><db:para xml:id="m44748-fs-idm103673216">When an action potential reaches the axon terminal it depolarizes the membrane and opens voltage-gated Na<db:superscript>+</db:superscript> channels. Na<db:superscript>+</db:superscript> ions enter the cell, further depolarizing the presynaptic membrane. This depolarization causes voltage-gated Ca<db:superscript>2+</db:superscript> channels to open. Calcium ions entering the cell initiate a signaling cascade that causes small membrane-bound vesicles, called <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1710893">synaptic vesicles</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1710893"><db:primary>synaptic vesicles</db:primary></db:indexterm>, containing neurotransmitter molecules to fuse with the presynaptic membrane. Synaptic vesicles are shown in <db:xref linkend="m44748-fig-ch35_02_06" target-id="fig-ch35_02_06" document="m44748"/>, which is an image from a scanning electron microscope.</db:para>
+<db:figure xml:id="m44748-fig-ch35_02_06" class=" "><db:mediaobject xml:id="m44748-fs-idm153371408"><db:textobject><db:phrase>The axon terminal is spherical. A section is sliced off, revealing small blue and orange vesicles just inside.</db:phrase></db:textobject><db:imageobject format="JPEG" xml:id="m44748-id1724000"><db:imagedata fileref="Figure_35_02_06.jpg" width="320"/></db:imageobject></db:mediaobject>
+<db:caption>This pseudocolored image taken with a scanning electron microscope shows an axon terminal that was broken open to reveal synaptic vesicles (blue and orange) inside the neuron. (credit: modification of work by Tina Carvalho, NIH-NIGMS; scale-bar data from Matt Russell)</db:caption></db:figure><db:para xml:id="m44748-fs-idm208166752">Fusion of a vesicle with the presynaptic membrane causes neurotransmitter to be released into the <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1724021">synaptic cleft</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1724021"><db:primary>synaptic cleft</db:primary></db:indexterm>, the extracellular space between the presynaptic and postsynaptic membranes, as illustrated in <db:xref linkend="m44748-fig-ch35_02_07" target-id="fig-ch35_02_07" document="m44748"/>. The neurotransmitter diffuses across the synaptic cleft and binds to receptor proteins on the postsynaptic membrane.</db:para>
+<db:figure xml:id="m44748-fig-ch35_02_07" class=" "><db:mediaobject xml:id="m44748-fs-idm266249200"><db:textobject><db:phrase>Illustration shows a narrow axon of a presynaptic cell widening into a bulb-like axon terminal. A narrow synaptic cleft separates the axon terminal of the presynaptic cell from the postsynaptic cell. In step 1, an action potential arrives at the axon terminal. In step 2, the action potential causes voltage-gated calcium channels in the axon terminal open, allowing calcium to enter. In step 3, calcium influx causes neurotransmitter-containing synaptic vesicles to fuse with the plasma membrane. Contents of the vesicles are released into the synaptic cleft by exocytosis. In step 4, neurotransmitter diffuses across the synaptic cleft and binds ligand-gated ion channels on the postsynaptic membrane, causing the channels to open. In step 5, the open channels cause ion movement into or out of the cell, resulting in a localized change in membrane potential. In step 6, reuptake by the presynaptic neuron, enzymatic degradation and diffusion reduce neurotransmitter levels, terminating the signal.</db:phrase></db:textobject><db:imageobject format="JPEG" xml:id="m44748-id1724044"><db:imagedata fileref="Figure_35_02_07.jpg" width="575"/></db:imageobject></db:mediaobject>
+<db:caption>Communication at chemical synapses requires release of neurotransmitters. When the presynaptic membrane is depolarized, voltage-gated Ca<db:superscript>2+</db:superscript> channels open and allow Ca<db:superscript>2+</db:superscript> to enter the cell. The calcium entry causes synaptic vesicles to fuse with the membrane and release neurotransmitter molecules into the synaptic cleft. The neurotransmitter diffuses across the synaptic cleft and binds to ligand-gated ion channels in the postsynaptic membrane, resulting in a localized depolarization or hyperpolarization of the postsynaptic neuron.</db:caption></db:figure><db:para xml:id="m44748-fs-idm175703120">The binding of a specific neurotransmitter causes particular ion channels, in this case ligand-gated channels, on the postsynaptic membrane to open. Neurotransmitters can either have excitatory or inhibitory effects on the postsynaptic membrane, as detailed in <db:xref linkend="m44748-tab-ch35_02_01" target-id="tab-ch35_02_01" document="m44748"/>. For example, when acetylcholine is released at the synapse between a nerve and muscle (called the neuromuscular junction) by a presynaptic neuron, it causes postsynaptic Na<db:superscript>+</db:superscript> channels to open. Na<db:superscript>+</db:superscript> enters the postsynaptic cell and causes the postsynaptic membrane to depolarize. This depolarization is called an <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1727119">excitatory postsynaptic potential (EPSP)</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1727119"><db:primary>excitatory postsynaptic potential (EPSP)</db:primary></db:indexterm> and makes the postsynaptic neuron more likely to fire an action potential. Release of neurotransmitter at inhibitory synapses causes <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1727124">inhibitory postsynaptic potentials (IPSPs)</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1727124"><db:primary>inhibitory postsynaptic potentials (IPSPs)</db:primary></db:indexterm>, a hyperpolarization of the presynaptic membrane. For example, when the neurotransmitter GABA (gamma-aminobutyric acid) is released from a presynaptic neuron, it binds to and opens Cl<db:superscript>-</db:superscript> channels. Cl<db:superscript>-</db:superscript> ions enter the cell and hyperpolarizes the membrane, making the neuron less likely to fire an action potential.</db:para>
+<db:para xml:id="m44748-fs-idm6698288">Once neurotransmission has occurred, the neurotransmitter must be removed from the synaptic cleft so the postsynaptic membrane can &#8220;reset&#8221; and be ready to receive another signal. This can be accomplished in three ways: the neurotransmitter can diffuse away from the synaptic cleft, it can be degraded by enzymes in the synaptic cleft, or it can be recycled (sometimes called reuptake) by the presynaptic neuron. Several drugs act at this step of neurotransmission. For example, some drugs that are given to Alzheimer&#8217;s patients work by inhibiting acetylcholinesterase, the enzyme that degrades acetylcholine. This inhibition of the enzyme essentially increases neurotransmission at synapses that release acetylcholine. Once released, the acetylcholine stays in the cleft and can continually bind and unbind to postsynaptic receptors.</db:para>
+<db:table xml:id="m44748-tab-ch35_02_02" summary="">
+    <db:tgroup cols="3" align="left">
+      <db:colspec colnum="1" colname="c1"/>
+        <db:colspec colnum="2" colname="c2"/>
+        <db:colspec colnum="3" colname="c3"/>
+        <db:thead>
+            <db:row>
+                <db:entry namest="c1" nameend="c3">Neurotransmitter Function and Location</db:entry>
+            </db:row>
+            <db:row>
+                <db:entry>Neurotransmitter</db:entry>
+                <db:entry>Example</db:entry>
+                <db:entry>Location</db:entry>
+            </db:row>
+        </db:thead>
+        <db:tbody>
+            <db:row>
+                <db:entry>Acetylcholine</db:entry>
+                <db:entry>&#8212;</db:entry>
+                <db:entry>CNS and/or PNS</db:entry>
+            </db:row>
+            <db:row>
+                <db:entry>Biogenic amine</db:entry>
+                <db:entry>Dopamine, serotonin, norepinephrine</db:entry>
+                <db:entry>CNS and/or PNS</db:entry>
+            </db:row>
+            <db:row>
+                <db:entry>Amino acid</db:entry>
+                <db:entry>Glycine, glutamate, aspartate, gamma aminobutyric acid</db:entry>
+                <db:entry>CNS</db:entry>
+            </db:row>
+            <db:row>
+                <db:entry>Neuropeptide</db:entry>
+                <db:entry>Substance P, endorphins</db:entry>
+                <db:entry>CNS and/or PNS</db:entry>
+            </db:row>
+        </db:tbody>
+    </db:tgroup>
+</db:table>
+</db:section><db:section xml:id="m44748-fs-idm148735952"><db:title>Electrical Synapse</db:title>
+
+<db:para xml:id="m44748-fs-idm110780000">While electrical synapses are fewer in number than chemical synapses, they are found in all nervous systems and play important and unique roles. The mode of neurotransmission in electrical synapses is quite different from that in chemical synapses. In an electrical synapse, the presynaptic and postsynaptic membranes are very close together and are actually physically connected by channel proteins forming gap junctions. Gap junctions allow current to pass directly from one cell to the next. In addition to the ions that carry this current, other molecules, such as ATP, can diffuse through the large gap junction pores.</db:para>
+<db:para xml:id="m44748-fs-idm19383344">There are key differences between chemical and electrical synapses. Because chemical synapses depend on the release of neurotransmitter molecules from synaptic vesicles to pass on their signal, there is an approximately one millisecond delay between when the axon potential reaches the presynaptic terminal and when the neurotransmitter leads to opening of postsynaptic ion channels. Additionally, this signaling is unidirectional. Signaling in electrical synapses, in contrast, is virtually instantaneous (which is important for synapses involved in key reflexes), and some electrical synapses are bidirectional. Electrical synapses are also more reliable as they are less likely to be blocked, and they are important for synchronizing the electrical activity of a group of neurons. For example, electrical synapses in the thalamus are thought to regulate slow-wave sleep, and disruption of these synapses can cause seizures.</db:para>
+</db:section>
+        </db:section>
+    <db:section xml:id="m44748-fs-idm245743248"><db:title>Signal Summation</db:title><db:para xml:id="m44748-fs-idm98199488">Sometimes a single EPSP is strong enough to induce an action potential in the postsynaptic neuron, but often multiple presynaptic inputs must create EPSPs around the same time for the postsynaptic neuron to be sufficiently depolarized to fire an action potential. This process is called <db:glossterm xml:id="m44748-autoid-cnx2dbk-id1737268">summation</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1737268"><db:primary>summation</db:primary></db:indexterm> and occurs at the axon hillock, as illustrated in <db:xref linkend="m44748-fig-ch35_02_08" target-id="fig-ch35_02_08" document="m44748"/>. Additionally, one neuron often has inputs from many presynaptic neurons&#8212;some excitatory and some inhibitory&#8212;so IPSPs can cancel out EPSPs and vice versa. It is the net change in postsynaptic membrane voltage that determines whether the postsynaptic cell has reached its threshold of excitation needed to fire an action potential. Together, synaptic summation and the threshold for excitation act as a filter so that random &#8220;noise&#8221; in the system is not transmitted as important information.</db:para>
+<db:figure xml:id="m44748-fig-ch35_02_08" class=" "><db:mediaobject xml:id="m44748-fs-idm130769136"><db:textobject><db:phrase>Illustration shows the location of the axon hillock, which is the area connecting the neuron body to the axon. A graph shows the summation of membrane potentials at the axon hillock, plotted as membrane potential in millivolts versus time. Initially, the membrane potential at the axon hillock is -70 millivolts. A series of EPSPs and IPSPs cause the potential to rise and fall. Eventually, the potential increases to the threshold of excitation. At this point the nerve fires, resulting in a sharp increase in membrane potential, followed by a rapid decrease. The hillock becomes hyperpolarizes such that the membrane potential is lower than the resting potential. The hillock then gradually returns to the resting potential.</db:phrase></db:textobject><db:imageobject format="JPEG" xml:id="m44748-id1737294"><db:imagedata fileref="Figure_35_02_08.jpg" width="320"/></db:imageobject></db:mediaobject>
+<db:caption>A single neuron can receive both excitatory and inhibitory inputs from multiple neurons, resulting in local membrane depolarization (EPSP input) and hyperpolarization (IPSP input). All these inputs are added together at the axon hillock. If the EPSPs are strong enough to overcome the IPSPs and reach the threshold of excitation, the neuron will fire.</db:caption></db:figure>
+<db:note xml:id="m44748-fs-idm127475712" class="everyday"><db:title>Everyday Connection</db:title>
+    
+
+<db:formalpara xml:id="m44748-fs-idm205537616"><db:title>Brain-computer interface</db:title><db:para>
+        
+Amyotrophic lateral sclerosis (ALS, also called Lou Gehrig&#8217;s Disease) is a neurological disease characterized by the degeneration of the motor neurons that control voluntary movements. The disease begins with muscle weakening and lack of coordination and eventually destroys the neurons that control speech, breathing, and swallowing; in the end, the disease can lead to paralysis. At that point, patients require assistance from machines to be able to breathe and to communicate. Several special technologies have been developed to allow &#8220;locked-in&#8221; patients to communicate with the rest of the world. One technology, for example, allows patients to type out sentences by twitching their cheek. These sentences can then be read aloud by a computer.</db:para></db:formalpara>
+<db:para xml:id="m44748-fs-idm8955264">A relatively new line of research for helping paralyzed patients, including those with ALS, to communicate and retain a degree of self-sufficiency is called brain-computer interface (BCI) technology and is illustrated in <db:xref linkend="m44748-fig-ch35_02_09" target-id="fig-ch35_02_09" document="m44748"/>. This technology sounds like something out of science fiction: it allows paralyzed patients to control a computer using only their thoughts. There are several forms of BCI. Some forms use EEG recordings from electrodes taped onto the skull. These recordings contain information from large populations of neurons that can be decoded by a computer. Other forms of BCI require the implantation of an array of electrodes smaller than a postage stamp in the arm and hand area of the motor cortex. This form of BCI, while more invasive, is very powerful as each electrode can record actual action potentials from one or more neurons. These signals are then sent to a computer, which has been trained to decode the signal and feed it to a tool&#8212;such as a cursor on a computer screen. This means that a patient with ALS can use e-mail, read the Internet, and communicate with others by thinking of moving his or her hand or arm (even though the paralyzed patient cannot make that bodily movement). Recent advances have allowed a paralyzed locked-in patient who suffered a stroke 15 years ago to control a robotic arm and even to feed herself coffee using BCI technology.</db:para>
+<db:para xml:id="m44748-fs-idm206604448">Despite the amazing advancements in BCI technology, it also has limitations. The technology can require many hours of training and long periods of intense concentration for the patient; it can also require brain surgery to implant the devices.</db:para>
+<db:figure xml:id="m44748-fig-ch35_02_09" class=" "><db:mediaobject xml:id="m44748-fs-idm252415248"><db:textobject><db:phrase>Illustration shows a person in a wheelchair, facing a computer screen. An arrow indicates that neural signals travel from the brain of the paralyzed person to the computer.</db:phrase></db:textobject><db:imageobject format="JPEG" xml:id="m44748-id1708384"><db:imagedata fileref="Figure_35_02_09.jpg" width="550"/></db:imageobject></db:mediaobject>
+<db:caption>With brain-computer interface technology, neural signals from a paralyzed patient are collected, decoded, and then fed to a tool, such as a computer, a wheelchair, or a robotic arm.</db:caption></db:figure></db:note>
+<db:note xml:id="m44748-fs-idm198012528" class="interactive"><db:title>Link to Learning</db:title>
+    <db:mediaobject xml:id="m44748-fs-idm88690816"><db:textobject><db:phrase>QR Code representing a URL</db:phrase></db:textobject><db:imageobject format="PNG" xml:id="m44748-id1727359"><db:imagedata fileref="paralyzation.png" width="120"/></db:imageobject></db:mediaobject>
+<db:para xml:id="m44748-fs-idm94744784">Watch <db:link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://openstaxcollege.org/l/paralyzation" ext:document="m44748" ext:resource="" window="new" url="http://openstaxcollege.org/l/paralyzation">this video</db:link> in which a paralyzed woman use a brain-controlled robotic arm to bring a drink to her mouth, among other images of brain-computer interface technology in action.</db:para>
+</db:note></db:section><db:section xml:id="m44748-fs-idm231775072"><db:title>Synaptic Plasticity</db:title>
+
+<db:para xml:id="m44748-fs-idm114094032">Synapses are not static structures. They can be weakened or strengthened. They can be broken, and new synapses can be made. Synaptic plasticity allows for these changes, which are all needed for a functioning nervous system. In fact, synaptic plasticity is the basis of learning and memory. Two processes in particular, long-term potentiation (LTP) and long-term depression (LTD) are important forms of synaptic plasticity that occur in synapses in the hippocampus, a brain region that is involved in storing memories.</db:para>
+<db:section xml:id="m44748-fs-idm255135008"><db:title>Long-term Potentiation (LTP)</db:title>
+
+<db:para xml:id="m44748-fs-idm118440240"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1727416">Long-term potentiation (LTP)</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1727416"><db:primary>Long-term potentiation (LTP)</db:primary></db:indexterm> is a persistent strengthening of a synaptic connection. LTP is based on the Hebbian principle: cells that fire together wire together. There are various mechanisms, none fully understood, behind the synaptic strengthening seen with LTP. One known mechanism involves a type of postsynaptic glutamate receptor, called NMDA (N-Methyl-D-aspartate) receptors, shown in <db:xref linkend="m44748-fig-ch35_02_10" target-id="fig-ch35_02_10" document="m44748"/>. These receptors are normally blocked by magnesium ions; however, when the postsynaptic neuron is depolarized by multiple presynaptic inputs in quick succession (either from one neuron or multiple neurons), the magnesium ions are forced out allowing Ca ions to pass into the postsynaptic cell. Next, Ca<db:superscript>2+</db:superscript> ions entering the cell initiate a signaling cascade that causes a different type of glutamate receptor, called AMPA (&#945;-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) receptors, to be inserted into the postsynaptic membrane, since activated AMPA receptors allow positive ions to enter the cell. So, the next time glutamate is released from the presynaptic membrane, it will have a larger excitatory effect (EPSP) on the postsynaptic cell because the binding of glutamate to these AMPA receptors will allow more positive ions into the cell. The insertion of additional AMPA receptors strengthens the synapse and means that the postsynaptic neuron is more likely to fire in response to presynaptic neurotransmitter release. Some drugs of abuse co-opt the LTP pathway, and this synaptic strengthening can lead to addiction.</db:para>
+    </db:section>
+<db:section xml:id="m44748-fs-idm147232736"><db:title>Long-term Depression (LTD)</db:title>
+
+<db:para xml:id="m44748-fs-idm193185040"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1713908">Long-term depression (LTD)</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1713908"><db:primary>Long-term depression (LTD)</db:primary></db:indexterm> is essentially the reverse of LTP: it is a long-term weakening of a synaptic connection. One mechanism known to cause LTD also involves AMPA receptors. In this situation, calcium that enters through NMDA receptors initiates a different signaling cascade, which results in the removal of AMPA receptors from the postsynaptic membrane, as illustrated in <db:xref linkend="m44748-fig-ch35_02_10" target-id="fig-ch35_02_10" document="m44748"/>. The decrease in AMPA receptors in the membrane makes the postsynaptic neuron less responsive to glutamate released from the presynaptic neuron. While it may seem counterintuitive, LTD may be just as important for learning and memory as LTP. The weakening and pruning of unused synapses allows for unimportant connections to be lost and makes the synapses that have undergone LTP that much stronger by comparison.</db:para><db:figure xml:id="m44748-fig-ch35_02_10" class=" "><db:mediaobject xml:id="m44748-fs-idm209149696"><db:textobject><db:phrase>Illustration shows the mechanism of LTP and LTD. Normally, the NMDA receptor in the postsynaptic neuron is activated by glutamate binding, but only after depolarization removes an inhibitory magnesium ion. Once the magnesium is removed, calcium can enter the cell. In response to an increase in intracellular calcium, AMPA receptors are inserted into the plasma membrane, which amplifies the signal resulting in LTP. LDP occurs when low-frequency stimulation results in the activation of a different calcium-signaling cascade that causes AMPA receptors to be removed from the plasma membrane. As a result, the nerve cell becomes less responsive to glutamate.</db:phrase></db:textobject><db:imageobject format="JPEG" xml:id="m44748-id1713934"><db:imagedata fileref="Figure_35_02_10.jpg" width="550"/></db:imageobject></db:mediaobject>
+<db:caption>Calcium entry through postsynaptic NMDA receptors can initiate two different forms of synaptic plasticity: long-term potentiation (LTP) and long-term depression (LTD). LTP arises when a single synapse is repeatedly stimulated. This stimulation causes a calcium- and CaMKII-dependent cellular cascade, which results in the insertion of more AMPA receptors into the postsynaptic membrane. The next time glutamate is released from the presynaptic cell, it will bind to both NMDA and the newly inserted AMPA receptors, thus depolarizing the membrane more efficiently. LTD occurs when few glutamate molecules bind to NMDA receptors at a synapse (due to a low firing rate of the presynaptic neuron). The calcium that does flow through NMDA receptors initiates a different calcineurin and protein phosphatase 1-dependent cascade, which results in the endocytosis of AMPA receptors. This makes the postsynaptic neuron less responsive to glutamate released from the presynaptic neuron.</db:caption></db:figure></db:section>
+    </db:section>
+<db:section xml:id="m44748-fs-idm182609792" class="summary"><db:title>Section Summary</db:title><db:para xml:id="m44748-fs-idm171947680">Neurons have charged membranes because there are different concentrations of ions inside and outside of the cell. Voltage-gated ion channels control the movement of ions into and out of a neuron. When a neuronal membrane is depolarized to at least the threshold of excitation, an action potential is fired. The action potential is then propagated along a myelinated axon to the axon terminals. In a chemical synapse, the action potential causes release of neurotransmitter molecules into the synaptic cleft. Through binding to postsynaptic receptors, the neurotransmitter can cause excitatory or inhibitory postsynaptic potentials by depolarizing or hyperpolarizing, respectively, the postsynaptic membrane. In electrical synapses, the action potential is directly communicated to the postsynaptic cell through gap junctions&#8212;large channel proteins that connect the pre-and postsynaptic membranes. Synapses are not static structures and can be strengthened and weakened. Two mechanisms of synaptic plasticity are long-term potentiation and long-term depression.</db:para>
+</db:section><db:section xml:id="m44748-fs-idm213532672" class="art-exercise"><db:title>Art Connections</db:title>
+    
+<ext:exercise xml:id="m44748-fs-idm32343056">
+    <ext:problem xml:id="m44748-fs-idm22460496">
+    <db:para xml:id="m44748-fs-idm182086816"><db:xref linkend="m44748-fig-ch35_02_03" target-id="fig-ch35_02_03" document="m44748"/> Potassium channel blockers, such as amiodarone and procainamide, which are used to treat abnormal electrical activity in the heart, called cardiac dysrhythmia, impede the movement of K+ through voltage-gated K+ channels. Which part of the action potential would you expect potassium channels to affect?</db:para></ext:problem>
+<ext:solution exercise-id="m44748-fs-idm32343056" xml:id="m44748-fs-idm99309632">
+    <ext:label/>
+    <db:para xml:id="m44748-fs-idm52746496"><db:xref linkend="m44748-fig-ch35_02_03" target-id="fig-ch35_02_03" document="m44748"/> Potassium channel blockers slow the repolarization phase, but have no effect on depolarization.</db:para>
+</ext:solution>
+</ext:exercise>
+</db:section>
+<db:section xml:id="m44748-fs-idm254304976" class="multiple-choice"><db:title>Review Questions</db:title>
+<ext:exercise xml:id="m44748-fs-idm203137248">
+<ext:problem xml:id="m44748-fs-idm166955056"><db:para xml:id="m44748-fs-idm219673488">For a neuron to fire an action potential, its membrane must reach ________.</db:para>
+<db:orderedlist numeration="loweralpha" xml:id="m44748-fs-idm347502240" list-type="enumerated" number-style="lower-alpha">
+<db:listitem><db:para>hyperpolarization</db:para></db:listitem>
+<db:listitem><db:para>the threshold of excitation</db:para></db:listitem>
+<db:listitem><db:para>the refractory period</db:para></db:listitem>
+<db:listitem><db:para>inhibitory postsynaptic potential</db:para></db:listitem>
+</db:orderedlist>
+</ext:problem>
+<ext:solution exercise-id="m44748-fs-idm203137248" xml:id="m44748-fs-idm145474544">
+<ext:label/>
+<db:para xml:id="m44748-fs-idm255625792">B</db:para>
+</ext:solution>
+</ext:exercise>
+<ext:exercise xml:id="m44748-fs-idm123693728">
+<ext:problem xml:id="m44748-fs-idm181005712"><db:para xml:id="m44748-fs-idm114772944">After an action potential, the opening of additional voltage-gated ________ channels and the inactivation of sodium channels, cause the membrane to return to its resting membrane potential.</db:para>
+<db:orderedlist numeration="loweralpha" xml:id="m44748-fs-idm97410384" list-type="enumerated" number-style="lower-alpha">
+<db:listitem><db:para>sodium</db:para></db:listitem>
+<db:listitem><db:para>potassium</db:para></db:listitem>
+<db:listitem><db:para>calcium</db:para></db:listitem>
+<db:listitem><db:para>chloride</db:para></db:listitem>
+</db:orderedlist>
+</ext:problem>
+<ext:solution exercise-id="m44748-fs-idm123693728" xml:id="m44748-fs-idm202029424">
+<ext:label/>
+<db:para xml:id="m44748-fs-idm199514128">B</db:para>
+</ext:solution>
+</ext:exercise>
+<ext:exercise xml:id="m44748-fs-idm74849344">
+<ext:problem xml:id="m44748-fs-idm253065904"><db:para xml:id="m44748-fs-idm103176336">What is the term for protein channels that connect two neurons at an electrical synapse?</db:para>
+      <db:orderedlist numeration="loweralpha" xml:id="m44748-fs-idm140927408" list-type="enumerated" number-style="lower-alpha">
+      <db:listitem><db:para>synaptic vesicles</db:para></db:listitem>
+      <db:listitem><db:para>voltage-gated ion channels</db:para></db:listitem>
+      <db:listitem><db:para>gap junction protein</db:para></db:listitem>
+      <db:listitem><db:para>sodium-potassium exchange pumps</db:para></db:listitem>
+      </db:orderedlist>
+</ext:problem>
+    <ext:solution exercise-id="m44748-fs-idm74849344" xml:id="m44748-fs-idm351308032">
+        <ext:label/>
+        <db:para xml:id="m44748-fs-idm181104992">C</db:para>
+    </ext:solution>
+    </ext:exercise>
+</db:section>
+<db:section xml:id="m44748-fs-idm165304304" class="free-response"><db:title>Free Response</db:title>
+
+<ext:exercise xml:id="m44748-fs-idp7114336">
+<ext:problem xml:id="m44748-fs-idp16162592"><db:para xml:id="m44748-fs-idm268742704">How does myelin aid propagation of an action potential along an axon? How do the nodes of Ranvier help this process?</db:para></ext:problem>
+<ext:solution exercise-id="m44748-fs-idp7114336" xml:id="m44748-fs-idm165513040"><ext:label/>
+<db:para xml:id="m44748-fs-idm141235792">Myelin prevents the leak of current from the axon. Nodes of Ranvier allow the action potential to be regenerated at specific points along the axon. They also save energy for the cell since voltage-gated ion channels and sodium-potassium transporters are not needed along myelinated portions of the axon.</db:para>
+</ext:solution>
+</ext:exercise>
+<ext:exercise xml:id="m44748-fs-idm83069712">
+<ext:problem xml:id="m44748-fs-idm168502208"><db:para xml:id="m44748-fs-idm402781456">What are the main steps in chemical neurotransmission?</db:para></ext:problem>
+<ext:solution exercise-id="m44748-fs-idm83069712" xml:id="m44748-fs-idm166577312"><ext:label/>
+<db:para xml:id="m44748-fs-idm6612944">An action potential travels along an axon until it depolarizes the membrane at an axon terminal. Depolarization of the membrane causes voltage-gated Ca<db:superscript>2+</db:superscript> channels to open and Ca<db:superscript>2+</db:superscript> to enter the cell. The intracellular calcium influx causes synaptic vesicles containing neurotransmitter to fuse with the presynaptic membrane. The neurotransmitter diffuses across the synaptic cleft and binds to receptors on the postsynaptic membrane. Depending on the specific neurotransmitter and postsynaptic receptor, this action can cause positive (excitatory postsynaptic potential) or negative (inhibitory postsynaptic potential) ions to enter the cell.</db:para>
+</ext:solution>
+</ext:exercise>
+</db:section>
+<db:glossary>
+<db:glossentry xml:id="m44748-fs-idm83001184"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1736801">action potential</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1736801"><db:primary>action potential</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm210611680">self-propagating momentary change in the electrical potential of a neuron (or muscle) membrane</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm139902256"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1736815">depolarization</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1736815"><db:primary>depolarization</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm90938288">change in the membrane potential to a less negative value</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm244411088"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1736828">excitatory postsynaptic potential (EPSP)</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1736828"><db:primary>excitatory postsynaptic potential (EPSP)</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm175360960">depolarization of a postsynaptic membrane caused by neurotransmitter molecules released from a presynaptic cell</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm104465440"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1736842">hyperpolarization</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1736842"><db:primary>hyperpolarization</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm270200464">change in the membrane potential to a more negative value</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm133006736"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1714460">inhibitory postsynaptic potential (IPSP)</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1714460"><db:primary>inhibitory postsynaptic potential (IPSP)</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm275262704">hyperpolarization of a postsynaptic membrane caused by neurotransmitter molecules released from a presynaptic cell</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm244920544"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1714474">long-term depression (LTD)</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1714474"><db:primary>long-term depression (LTD)</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm170407344">prolonged decrease in synaptic coupling between a pre- and postsynaptic cell</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm83407200"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1714487">long-term potentiation (LTP)</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1714487"><db:primary>long-term potentiation (LTP)</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm177079216">prolonged increase in synaptic coupling between a pre-and postsynaptic cell</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm4500704"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1714499">membrane potential</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1714499"><db:primary>membrane potential</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm270330304">difference in electrical potential between the inside and outside of a cell</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm83463408"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1714512">refractory period</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1714512"><db:primary>refractory period</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm281078128">period after an action potential when it is more difficult or impossible for an action potential to be fired; caused by inactivation of sodium channels and activation of additional potassium channels of the membrane</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm214457104"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1714527">saltatory conduction</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1714527"><db:primary>saltatory conduction</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm266112816">&#8220;jumping&#8221; of an action potential along an axon from one node of Ranvier to the next</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm96582288"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1714540">summation</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1714540"><db:primary>summation</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm184648720">process of multiple presynaptic inputs creating EPSPs around the same time for the postsynaptic neuron to be sufficiently depolarized to fire an action potential</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm134123760"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1714554">synaptic cleft</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1714554"><db:primary>synaptic cleft</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm48140944">space between the presynaptic and postsynaptic membranes</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm14798112"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1714567">synaptic vesicle</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1714567"><db:primary>synaptic vesicle</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm17154336">spherical structure that contains a neurotransmitter</db:para></db:glossdef></db:glossentry>
+<db:glossentry xml:id="m44748-fs-idm257232080"><db:glossterm xml:id="m44748-autoid-cnx2dbk-id1714581">threshold of excitation</db:glossterm><db:indexterm zone="m44748-autoid-cnx2dbk-id1714581"><db:primary>threshold of excitation</db:primary></db:indexterm><db:glossdef><db:para xml:id="m44748-fs-idm216692736">level of depolarization needed for an action potential to fire</db:para></db:glossdef></db:glossentry>
+</db:glossary></db:preface></db:book>
