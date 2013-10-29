@@ -1,0 +1,194 @@
+<db:book xmlns:db="http://docbook.org/ns/docbook" xmlns:ext="http://cnx.org/ns/docbook+" ext:site-type="Connexions" ext:element="module" lang="en" ext:url="http://cnx.org/content/m44783/latest/" ext:version="1.2" xml:id="m44783" xml:lang="en" class="introduction"><db:bookinfo ext:repository="http://cnx.org/content"><db:title>Introduction</db:title>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  
+  
+  
+  
+  <db:edition>1.2</db:edition>
+  
+  <db:pubdate>2013/03/11 11:15:01 -0500</db:pubdate>
+  
+  <db:authorgroup>
+    <db:author ext:user-id="OpenStaxCollege" ext:role="author">
+      
+      <db:firstname>OpenStax College</db:firstname>
+      <db:email>info@openstaxcollege.org</db:email>
+    </db:author>
+    
+    <db:othercredit class="other" ext:user-id="OSCRiceUniversity" ext:role="licensor">
+      <db:firstname>Rice</db:firstname>
+      <db:surname>University</db:surname>
+      
+      <db:email>daniel@openstaxcollege.org</db:email>
+    <db:contrib>licensor</db:contrib></db:othercredit>
+  </db:authorgroup>
+  <db:legalnotice>It is licensed under the Creative Commons Attribution License: <db:ulink url="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</db:ulink></db:legalnotice>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <db:keywordset>
+    <db:keyword>abduction</db:keyword>
+    <db:keyword>acetylcholinesterase</db:keyword>
+    <db:keyword>AChE</db:keyword>
+    <db:keyword>adduction</db:keyword>
+    <db:keyword>amphiarthroses</db:keyword>
+    <db:keyword>angular movement</db:keyword>
+    <db:keyword>appendicular skeleton</db:keyword>
+    <db:keyword>appositional growth</db:keyword>
+    <db:keyword>auditory ossicle</db:keyword>
+    <db:keyword>axial skeleton</db:keyword>
+    <db:keyword>ball-and-socket joint</db:keyword>
+    <db:keyword>bone</db:keyword>
+    <db:keyword>bone cell</db:keyword>
+    <db:keyword>bone growth</db:keyword>
+    <db:keyword>bone remodeling</db:keyword>
+    <db:keyword>bone repair</db:keyword>
+    <db:keyword>bone tissue</db:keyword>
+    <db:keyword>bone type</db:keyword>
+    <db:keyword>calcification</db:keyword>
+    <db:keyword>calf bone</db:keyword>
+    <db:keyword>cardiac muscle tissue</db:keyword>
+    <db:keyword>cartilaginous joint</db:keyword>
+    <db:keyword>circumduction</db:keyword>
+    <db:keyword>clavicle</db:keyword>
+    <db:keyword>compact bone tissue</db:keyword>
+    <db:keyword>condyloid joint</db:keyword>
+    <db:keyword>coxal bone</db:keyword>
+    <db:keyword>cranial bone</db:keyword>
+    <db:keyword>decalcification</db:keyword>
+    <db:keyword>depression</db:keyword>
+    <db:keyword>diaphysis</db:keyword>
+    <db:keyword>diarthroses</db:keyword>
+    <db:keyword>dorsiflexion</db:keyword>
+    <db:keyword>elevation</db:keyword>
+    <db:keyword>endochondral ossification</db:keyword>
+    <db:keyword>endoskeleton</db:keyword>
+    <db:keyword>epiphyseal plate</db:keyword>
+    <db:keyword>epiphyses</db:keyword>
+    <db:keyword>eversion</db:keyword>
+    <db:keyword>excitation&#8211;contraction coupling</db:keyword>
+    <db:keyword>exoskeleton</db:keyword>
+    <db:keyword>extension</db:keyword>
+    <db:keyword>facial bone</db:keyword>
+    <db:keyword>femur</db:keyword>
+    <db:keyword>fibrous joint</db:keyword>
+    <db:keyword>fibula</db:keyword>
+    <db:keyword>flat bone</db:keyword>
+    <db:keyword>flexion</db:keyword>
+    <db:keyword>forearm</db:keyword>
+    <db:keyword>gliding movement</db:keyword>
+    <db:keyword>gomphoses</db:keyword>
+    <db:keyword>Haversian canal</db:keyword>
+    <db:keyword>hinge joint</db:keyword>
+    <db:keyword>hip bone</db:keyword>
+    <db:keyword>human skeletal system</db:keyword>
+    <db:keyword>human skeleton</db:keyword>
+    <db:keyword>humerus</db:keyword>
+    <db:keyword>hydrostatic skeleton</db:keyword>
+    <db:keyword>hyoid bone</db:keyword>
+    <db:keyword>hyperextension</db:keyword>
+    <db:keyword>intervertebral disc</db:keyword>
+    <db:keyword>intramembranous ossification</db:keyword>
+    <db:keyword>inversion</db:keyword>
+    <db:keyword>irregular bone</db:keyword>
+    <db:keyword>joint</db:keyword>
+    <db:keyword>joint function</db:keyword>
+    <db:keyword>joint movement</db:keyword>
+    <db:keyword>joint structure</db:keyword>
+    <db:keyword>kneecap</db:keyword>
+    <db:keyword>lamellae</db:keyword>
+    <db:keyword>lateral rotation</db:keyword>
+    <db:keyword>locomotion</db:keyword>
+    <db:keyword>long bone</db:keyword>
+    <db:keyword>lower limb</db:keyword>
+    <db:keyword>medial rotation</db:keyword>
+    <db:keyword>metatarsal</db:keyword>
+    <db:keyword>middle ear</db:keyword>
+    <db:keyword>motor end plate</db:keyword>
+    <db:keyword>muscle contraction</db:keyword>
+    <db:keyword>muscle fiber structure</db:keyword>
+    <db:keyword>muscle tension</db:keyword>
+    <db:keyword>muscle tissue</db:keyword>
+    <db:keyword>muscle type</db:keyword>
+    <db:keyword>musculoskeletal system</db:keyword>
+    <db:keyword>myofibril</db:keyword>
+    <db:keyword>myofilament</db:keyword>
+    <db:keyword>opposition</db:keyword>
+    <db:keyword>osseous tissue</db:keyword>
+    <db:keyword>ossification</db:keyword>
+    <db:keyword>osteoblast</db:keyword>
+    <db:keyword>osteoclast</db:keyword>
+    <db:keyword>osteocyte</db:keyword>
+    <db:keyword>osteon</db:keyword>
+    <db:keyword>patella</db:keyword>
+    <db:keyword>pectoral girdle</db:keyword>
+    <db:keyword>pivot joint</db:keyword>
+    <db:keyword>planar joint</db:keyword>
+    <db:keyword>plantar flexion</db:keyword>
+    <db:keyword>pronation</db:keyword>
+    <db:keyword>protraction</db:keyword>
+    <db:keyword>radius</db:keyword>
+    <db:keyword>regulatory protein</db:keyword>
+    <db:keyword>resorption</db:keyword>
+    <db:keyword>retraction</db:keyword>
+    <db:keyword>rheumatologist</db:keyword>
+    <db:keyword>rib</db:keyword>
+    <db:keyword>ribcage</db:keyword>
+    <db:keyword>rotational movement</db:keyword>
+    <db:keyword>saddle joint</db:keyword>
+    <db:keyword>sarcolemma</db:keyword>
+    <db:keyword>sarcomere</db:keyword>
+    <db:keyword>scapula</db:keyword>
+    <db:keyword>shinbone</db:keyword>
+    <db:keyword>short bone</db:keyword>
+    <db:keyword>skeletal movement</db:keyword>
+    <db:keyword>skeletal muscle tissue</db:keyword>
+    <db:keyword>skeletal system</db:keyword>
+    <db:keyword>skeleton evolution</db:keyword>
+    <db:keyword>skull</db:keyword>
+    <db:keyword>sliding filament model of contraction</db:keyword>
+    <db:keyword>smooth muscle tissue</db:keyword>
+    <db:keyword>spine</db:keyword>
+    <db:keyword>spongy bone tissue</db:keyword>
+    <db:keyword>sternum</db:keyword>
+    <db:keyword>supination</db:keyword>
+    <db:keyword>suture</db:keyword>
+    <db:keyword>symphyses</db:keyword>
+    <db:keyword>synarthrosis</db:keyword>
+    <db:keyword>synchondrosis</db:keyword>
+    <db:keyword>syndesmoses</db:keyword>
+    <db:keyword>synovial joint</db:keyword>
+    <db:keyword>tarsal</db:keyword>
+    <db:keyword>thick filament</db:keyword>
+    <db:keyword>thighbone</db:keyword>
+    <db:keyword>thin filament</db:keyword>
+    <db:keyword>thoracic cage</db:keyword>
+    <db:keyword>tibia</db:keyword>
+    <db:keyword>trabecula</db:keyword>
+    <db:keyword>tropomyosin</db:keyword>
+    <db:keyword>troponin</db:keyword>
+    <db:keyword>ulna</db:keyword>
+    <db:keyword>vertebral column</db:keyword>
+  </db:keywordset>
+  <db:subjectset>
+    <db:subject>Science and Technology</db:subject>
+  </db:subjectset>
+  <db:abstract><db:para/></db:abstract>
+  
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+<db:mediaobject role="cover"><db:imageobject><db:imagedata format="PNG" fileref="cover.png"/></db:imageobject></db:mediaobject></db:bookinfo><db:preface><db:prefaceinfo ext:repository="http://cnx.org/content"><db:title>Introduction</db:title><db:abstract><db:para/></db:abstract></db:prefaceinfo>
+    <?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<db:figure xml:id="m44783-fig-ch38_00_01" class="splash"><db:mediaobject xml:id="m44783-fs-idm116864816"><db:textobject><db:phrase>Photo shows a man whose legs end at the knees. Prosthetic legs allow him to run on a track.</db:phrase></db:textobject><db:imageobject format="JPEG" xml:id="m44783-id1293243"><db:imagedata fileref="Figure_38_00_01f.jpg" width="500"/></db:imageobject></db:mediaobject>
+<db:caption>Improvements in the design of prostheses have allowed for a wider range of activities in recipients. (credit: modification of work by Stuart Grout)</db:caption></db:figure><db:para xml:id="m44783-fs-idm213934096">The muscular and skeletal systems provide support to the body and allow for a wide range of movement. The bones of the skeletal system protect the body&#8217;s internal organs and support the weight of the body. The muscles of the muscular system contract and pull on the bones, allowing for movements as diverse as standing, walking, running, and grasping items.</db:para>
+<db:para xml:id="m44783-fs-idm26054656">Injury or disease affecting the musculoskeletal system can be very debilitating. In humans, the most common musculoskeletal diseases worldwide are caused by malnutrition. Ailments that affect the joints are also widespread, such as arthritis, which can make movement difficult and&#8212;in advanced cases&#8212;completely impair mobility. In severe cases in which the joint has suffered extensive damage, joint replacement surgery may be needed.</db:para>
+<db:para xml:id="m44783-fs-idm144496720">Progress in the science of prosthesis design has resulted in the development of artificial joints, with joint replacement surgery in the hips and knees being the most common. Replacement joints for shoulders, elbows, and fingers are also available. Even with this progress, there is still room for improvement in the design of prostheses. The state-of-the-art prostheses have limited durability and therefore wear out quickly, particularly in young or active individuals. Current research is focused on the use of new materials, such as carbon fiber, that may make prostheses more durable.</db:para>
+</db:preface></db:book>
