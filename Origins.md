@@ -3,18 +3,11 @@
 * * * * *
 
 **Where did the different types of organisms now living on earth come
-from?**  This is one of the fundamental questions that biology attempts
+from?**  This is one of the many fundamental questions that biology attempts
 to answer. 
 
 Did organisms arise at one specific time point, or have different types
-of organisms appeared at different times during the history
-
-[![Figure: Francesco Redi](./img/redi.jpg)](http://www.francescoredi.it/) 
-
-*Figure: Francesco Redi*
-
-> He who experiments increases knowledge. He who merely speculates piles
-error upon error.- Arabic epigraph quoted by Redi.
+of organisms appeared at different times during the history of earth?
 
 It used to be [widely believed](http://www.accessexcellence.org/RC/AB/BC/Spontaneous_Generation.html)
 that various types of organisms, such as flies, frogs, and even mice,
@@ -23,6 +16,13 @@ arose spontaneously, from non-living matter.
 Flies, for example, were thought to appear from rotting flesh and mice
 from wheat. If true, on-going spontaneous generation would have profound
 implications for our understanding of biological systems.
+
+[![Figure: Francesco Redi](./img/redi.jpg)](http://www.francescoredi.it/) 
+
+*Figure: Francesco Redi was one of the first scientists to study the origins of life. Click the image to learn more*
+
+> He who experiments increases knowledge. He who merely speculates piles
+error upon error.- Arabic epigraph quoted by Redi.
 
 A key event in the conceptual development of modern biology was the
 publication in 1668 of Francesco Redi’s “Experiments on the generation
@@ -40,7 +40,7 @@ other was sealed with paper or cloth. 
 
 [![Redi's Experiment](./img/abiogenesis.jpg)](http://biology.clc.uc.edu/courses/bio114/SpontGen%20Intro.htm)
 
-*Figure: Redi's experimental design. Click the image to read more*
+*Figure: Redi's experimental design. Click the image to learn more*
 
 Maggots appeared only in the flasks open to the air. Redi concluded that
 organisms as complex as insects could arise only from other insects.
@@ -88,7 +88,7 @@ them in special “swan-necked” flasks.
 
 [![flask](./img/pswanflskBROKEN.gif)](http://www.visionlearning.com/library/module_viewer.php?mid=171)
 
-*Figure: Pasteur's Exerimental Design. Click the images to view the tutorial:Experimentation in practice:: nvestigating the spontaneous generation of life*
+*Figure: Pasteur's Exerimental Design. Click the images to view the tutorial, "Experimentation in practice:investigating the spontaneous generation of life"*
 
 The flask was open to the air but because of the shape of its neck,
 airborne organisms could not reach the broth. The liquid remained
@@ -107,15 +107,17 @@ science.
 
 **Questions to answer:**
 
-1.  Why did the discovery of bacteria reopen the debate on spontaneous
+1. What evidence (do you think) lead people to propose the hypothesis of spontaneous generation?
+2.  Why did the discovery of bacteria reopen the debate on spontaneous
     generation?
-2.  What were the positive and negative controls in Pasteur’s
+3.  What were the [positive and negative controls](http://en.wikipedia.org/wiki/Scientific_control) in Pasteur’s
     experiment?
 
 **Question to ponder:**
 
--   How would biology change if  spontaneous generation were occurring
+1.  How would biology change if spontaneous generation were occurring
     today, for example, between your toes?
+2. Is their any evidence to support the hypothesis of spontaneous generation? 
 
 * * * * *
 
@@ -151,13 +153,13 @@ sometimes referred to as [deep
 time](http://www.handprint.com/PS/GEO/time9.html).
 
 The earth and the other planets formed \~ 4.5 x 10^9^years ago. The
-earliest period of earth history is known as the Hadean**,**after
+earliest period of earth history is known as the Hadean, after
 [Hades](http://www.pantheon.org/articles/h/hades.html), the Greek god of
 the dead. The Hadean is defined as the period before the appearance of
 life. The first evidence of biological processes appear in rocks that
 are \~3.8 to 3.5 x 10^9^ years.
 
-![*Figure:Geologic timescale of earth*](./img/Geo.PNG)
+![*Figure:Geologic timescale of earth.*](./img/Geo.PNG)
 
 We do not know how many times life arose on the early earth, all we do
 know is that all of the current organisms we have studied are descended
@@ -168,11 +170,11 @@ from a single common ancestor.
 <embed width="420" height="345" src="http://www.youtube.com/v/l1a12go43_0" type="application/x-shockwave-flash"> </embed>
 *Movie: Evolution explained by Bozos*
 
-**Evidence of life: **Fossils provide the most dramatic evidence of the
+**Evidence of life:** Fossils provide the most dramatic evidence of the
 history of life on earth. Fossils are formed only in [sedimentary
 rock](http://en.wikipedia.org/wiki/Sedimentary_rock).
 
-Chemical fossils are molecules that, as far as we know, occur in
+Chemical fossils are molecules that, as far as we know, occur
 naturally only through biological processes. Their presence in ancient
 rock implies that living organisms were present at the time the rock was
 formed. What makes chemical fossils problematic is that there may be
@@ -186,7 +188,7 @@ Animals that walk can leave footprints.
 
 [![Figure: Dinosaur Tracks](./img/DinoTracks.gif)](http://www.dinoridge.org/) 
 
-*Figure: Dinotracks at Dinosaur Ridge, in Morrison, Colorado. Click the image to read more.*
+*Figure: Fossilized dinotracks at Dinosaur Ridge, in Morrison, Colorado. Click the image to read more.*
 
 Organisms without hard parts, such as
 [jellyfish](http://www.fossilmuseum.net/Fossil_Sites/Amazing_Cambrian_Quarry_in_Wisconsin/Amazing_Cambrian_Quarry_in_Wisconsin.htm),
@@ -197,11 +199,11 @@ than not a dead organism is eaten, and nothing recognizable remains.
 
 Occasionally an organism’s remains are buried before they are destroyed.
 This can lead to fossilization, which involves replacing the organic
-materials with minerals. Over the billions of years that life has
+materials with minerals. The biological material becomes stone. Over the billions of years that life has
 existed on earth, many fossils have been created; as erosion removes
 surface layers of rock, these fossils come to light.
 
-![*Figure:Fossilized Brittlestar*](./img/fossil_starfish.jpg)
+![*Figure:Fossilized brittlestar, a type of starfish (echinoderm)*](./img/fossil_starfish.jpg)
 
 A fossil can be as simple as a single tooth, scale or shell, or as
 complex as a complete skeleton. As organisms developed hard parts, such
@@ -214,7 +216,7 @@ present on earth by \~3.5 x 10^9^ years ago, and perhaps earlier. 
 
  *Figure: Fossil strata. Click the image to learn more*
 
-**Change over time****:** Early on in the history of geology, it was
+**Change over time:** Early on in the history of geology, it was
 discovered that fossils of specific types were found associated with
 rocks of specific ages - this correlation was so robust, that rocks can
 be accurately dated by the types of fossils they contain.
@@ -237,18 +239,20 @@ During this period, photosynthetic
 [bacteria](http://www.ucmp.berkeley.edu/bacteria/cyanointro.html)
 captured light and used that energy to drive the reaction by which CO~2~
 (carbon dioxide) and H~2~O (water) are combined to form sugars
-(carbohydrates).
+(carbohydrates), a process known as [photosynthesis](http://en.wikipedia.org/wiki/Photosynthesis).
 
 In the course of these reactions molecular oxygen (O~2~) was produced as
 a waste product. Over time O~2~ began to accumulate in the atmosphere.
-By about 300 million years ago, atmospheric O~2~levels had reached
+By about 300 million years ago, atmospheric O~2~ levels had reached
 \~35%, almost twice the current level. 
 
 ![oxygen history](./img/oxygen.jpg)![oxygen levels](./img/oxygen_700Mya.jpg)
 
+*Figure: Atmospheric oxygen levels have changed over time*
+
 Some hypothesize that it was these [high levels of
 atmospheric](http://www.learner.org/courses/envsci/unit/text.php?unit=1&secNum=6) O~2~
-that made possible the evolution of giant flying insects. 
+that made possible the evolution of giant flying insects. Indeed there are fossilized remains of [dragon flies](http://en.wikipedia.org/wiki/Meganeura) that had wingspans of 65 cm (~25.6 inches)
 
 Because O~2~ is a highly reactive and potentially toxic compound, its
 appearance posed challenges and provided opportunities to many
@@ -256,9 +260,9 @@ organisms.
 
 For example, through coupled reactions O~2~ can be used to extract the
 maximum amount of energy from food, leading to the generation of CO~2~
-and H~2~O.
+and H~2~O. A process known as [cellular respiration](http://en.wikipedia.org/wiki/Cellular_respiration)
 
-Around 10^9^ years ago[trace fossil
+Around 10^9^ years ago [trace fossil
 burrows](http://palaeo.gly.bris.ac.uk/Palaeofiles/Cambrian/controversies/recent/recent.html)
 appeared; these were likely to have been produced by simple worm-like,
 macroscopic (meaning larger) metazoans (meaning multicellular animals)
@@ -313,7 +317,7 @@ process.
 
 Different religious traditions differ as to the details of this event,
 but since the process is supernatural it cannot, by definition, be
-studied scientifically.
+studied scientifically. 
 
 Nevertheless, “intelligent design” creationists claim that we can
 identify those aspects of life that could not have been produced by
@@ -351,14 +355,14 @@ being alive? 
 Unfortunately, it is currently not yet possible (and unlikely to become
 possible) to answer these questions.  While “earth-like” planets
 continue to be discovered, we really have no idea whether life is common
-or rare (in the universe).
+or rare ([in the universe](http://en.wikipedia.org/wiki/Fermi_paradox)).   
 
 The most likely scenario for discovering independent origins of life
-would be to look at planets and moons in our[solar system.](http://www.wired.com/wiredscience/2009/01/et-life/) ([Darwin IV alien planet video](http://www.youtube.com/watch?v=BNLfNe12BKE&feature=related)). 
+would be to look at planets and moons in our [solar system.](http://www.wired.com/wiredscience/2009/01/et-life/) ([Darwin IV alien planet video](http://www.youtube.com/watch?v=BNLfNe12BKE&feature=related)). 
 
 * * * * *
 
-**The death of vitalism: **It was originally thought that life itself
+**The death of vitalism:** It was originally thought that life itself
 was a type of supernatural process, too complex to obey (or be
 understood through) the laws of chemistry and physics.  
 
@@ -369,14 +373,14 @@ not be made except by living organisms.  
 
 ![*Figure: Friederich Wohler*](./img/wohler.jpg)
 
-This view was challenged when Friedrich Wöhler synthesized urea in the
+This view was challenged when Friedrich Wöhler (above) synthesized urea in the
 lab in 1828. 
 
 Urea is a simple organic molecule. O=C(NH~2~)~2~. It is naturally
 found only in living organisms and is a major waste product. 
 [Urine](http://en.wikipedia.org/wiki/Urine) contains lots of urea. 
 
-Wöhler’s in vitro or “in glass” synthesis of urea was simple. He took
+Wöhler’s [*in vitro*](http://en.wikipedia.org/wiki/In_vitro) synthesis of urea was simple. He took
 the inorganic compound ammonium cyanate (NH~4^+^~CNO^-^) and heated it;
 this led to the production of
 [urea](http://www.3rd1000.com/urea/wohler.htm). 
@@ -420,7 +424,7 @@ electricity through their experimental atmosphere.  
 
 After awhile (hours/days), they found that a complex mix of compounds
 had formed. Included in this mix were many different types of amino
-acids.
+acids. Amino acids are the building blocks of proteins, a major component of living cells.
 
 Certain types of meteorites also contain complex organic molecules. It
 therefore appears likely that the early earth was rich in organic (that
@@ -439,7 +443,7 @@ as catalysts for important reactions.
 
 [![Deamer-lipids](./img/Deamer-lipids.jpg)](http://www.nature.com/nature/journal/v454/n7200/full/454037a.html)
 
-*Figure: Primitive membranes. Click the image to learn more*
+*Figure: Primitive lipid membranes, perhaps like those that were associated with early life. Click the image to learn more*
 
 Over time, these systems acquired membranes and were able to exist free
 of the mineral surface. 
@@ -468,13 +472,13 @@ Szostak](http://online.itp.ucsb.edu/online/evonet07/szostak/)
 
 **Questions to answer**
 
-1.  What are the properties of life?
+1.  What are the properties of life? 
 2.  What did Wohler’s synthesis of urea and the Miller-Urey experiment
     actually prove, versus what did they imply?
 3.  How did Wohler’s experiment change the meaning of the term
     “organic”?  
 4.  If thermodynamics tells us that systems become more disordered over
-    time, does life speed up or slow down this process?
+    time (the [second law of thermodynamics](http://en.wikipedia.org/wiki/Second_law_of_thermodynamics)), does life speed up or slow down this process?
 5.  Does life obey or disobey the second law of thermodynamics?
 
 **Questions to ponder**

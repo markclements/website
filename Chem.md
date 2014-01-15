@@ -2,13 +2,13 @@
 
 * * * * *
 
-Approximately 70% of the total mass (i.e., weight) of living organisms is water. You are mostly made of water; for a person with a total body mass of 73kg (~160 pounds),  54kg (~130 pounds) of that mass is water.    
+Approximately 70% of the total mass (i.e., weight) of living organisms is water. For an average person with a total body mass of 73kg (~160 lbs), 54kg (~130 lbs) of that mass can be attributed to water alone.    
 
-There is a profound relationship between water and life. It is quite likely that life arose in an aqueous environment, although the exact steps involved in going from a non-living to a living system remains the subject of ongoing research. Without water there would most likely be no life, as we know it, on this planet.
+It is quite likely that life arose in an aqueous environment, although the exact steps involved in going from a non-living to a living system remains the subject of ongoing research. However, we can conclude based upon our observations of life that without water there would no life, as we know it, on this planet.
 
-You should be comfortable with the universal fact that water, and all matter, are mode of atoms. Water is composed of 2 hydrogen atoms bonded to an oxygen atom; thus the chemical formula for water is H~2~O (the subscripts refer to the number of atom in the molecule). Water possesses "special" properties that allow it to sustain life. The properties of water arise from the properties of water molecules. These properties arise from the properties of atoms and interactions between them in water molecules. 
+Water molecules (and all matter in the universe) are mode of atoms. Water is composed of 2 hydrogen atoms bonded to a single oxygen atom; thus the chemical formula for water is H~2~O (the subscripts refer to the number of atom in the molecule). Water possesses "special" properties that allow it to support and sustain life. The properties of water arise from the emergent properties of water molecules. These emergent properties arise from the properties of atoms and their interactions in water molecules. 
 
-Water molecules are the major determinant of how cells and their components are organized and how they function. Water is also vital too many of the chemical reactions that occur in living systems, these reactions support and produce the quality that we call life. Without water, cells and the properties of life that we associate with cells would probably not exist.
+Water molecules are the major determinant of how cells and their components are organized and how they function. Water is also vital too many of the chemical reactions that occur in living systems, these reactions support and produce the quality that we call life. Without water, cells and the properties of life that we associate with cells would not exist.
 
 This means that to understand (i.e. make sense of) biological systems we need to know some basic physics and chemistry, specifically atomic and molecular structure, atomic and molecular interactions, and (some) thermodynamics [[CLUE Chemistry link](http://besocratic.colorado.edu/CLUE-Chemistry/index.html)].
 
@@ -16,7 +16,7 @@ This means that to understand (i.e. make sense of) biological systems we need to
 
 > "If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generation of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis (or the atomic fact, or whatever you wish to call it) that all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling on being squeezed into one another. In that one sentence, you will see, there is an enormous amount of information about the world, if just a little imagination and thinking are applied.” (Feynman 1963)
 
-Although it may seem a bit intimidating, your ability to understand basic concepts of biological systems depends upon understanding atoms. At the same time, it is worth admitting that atoms are so unreal, from the perspective of your everyday experience, that the [atomic theory](http://en.wikipedia.org/wiki/Atomic_theory) could pose a serious barrier to understanding basic concepts. You may not believe in atoms, but you do have to understand them. 
+Although it may seem a bit intimidating, your ability to understand biological systems depends upon understanding atoms and their basic properties. Atoms and their properties are very unreal to most biology students, since you can't really see or touch them, and so the [atomic theory](http://en.wikipedia.org/wiki/Atomic_theory) can pose a serious barrier to your understanding of biology. 
 
 The smallest particle of matter that you can see with your naked eye contains more atoms than there are people in the world. Atoms are unimaginably small; we have yet to actually observe them directly. Indirect observation suggests that atoms consist of a very (very) small, but very dense nucleus that contains protons (+ charge) and neutrons (no charge), which is surrounded by electrons (- charge), which are very light, relatively. The space occupied by moving electrons accounts for the vast majority of the volume of an atom. 
 

@@ -24,13 +24,14 @@ pair of elephants to produce a mass of descendants larger than that of
 the earth.
 
 Obviously, exponential growth cannot go on forever, or even for very
-long.
+long. There is constant struggle for survival. 
 
 The total number of organisms at any one time is limited by the
 resources available (space and food) as well as by predators and disease
 and, in the case of higher organisms, social factors such as
 territoriality
 [[link](http://en.wikipedia.org/wiki/Territory_(animal))][[link](https://iriss.stanford.edu/sites/all/files/shared/documents/Lopez-Sepulcre2005.pdf)].
+This is what is known as the [carrying capacity](http://en.wikipedia.org/wiki/Carrying_capacity) of a population.
 
 In an unperturbed system, population numbers generally oscillate around
 a steady state (although because of ecological and evolutionary
@@ -49,7 +50,7 @@ countries, the birth rate already falls into the low fertility domain
 [[link](http://www.youtube.com/watch?v=ezVk1ahRF78)]. 
 
 This decrease in birth rate per women correlates with **reductions** in
-infant mortality and increases in the educational level of women. The
+infant mortality and **increases** in the educational level of women. The
 behavior of humans appears to be somewhat different from that of your
 “average” animal, plant, or microbe. 
 
@@ -64,7 +65,7 @@ organisms in a population are not identical and that part of this
 variation is inherited. 
 
 If all of the offspring were identical, which ones would survive to
-reproduce would be a matter of luck, pure and simple.  If variation is
+reproduce would be a matter of luck, pure and simple. If variation is
 due to genetic factors, and if variation influences reproductive
 success, then populations will, of necessity, change (evolve) over
 time. 
@@ -162,7 +163,7 @@ Myostatin normally acts to suppress the growth of muscle; when myostatin
 activity is reduced, muscles grow bigger. 
 
 Mutations in the
-*[myostatin](http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=601788)*
+[*myostatin*](http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=601788)
 gene lead to either reduced levels or altered forms of the myostatin
 protein. In humans, a reduced level of myostatin activity causes a child
 to have muscles that are twice the size of those in a normal child,
@@ -172,6 +173,8 @@ In cattle (below), a mutation in the *myostatin* gene is responsible for the
 “double muscle” phenotype displayed by some breeds.
 
 [![myostatin](./img/double_muscle_mutation.jpg)](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=24998)
+
+*Figure: Double muscle phenotype in cattle. Click the image to learn more*
 
 On the other hand, over-expression of myostatin leads to the loss of
 muscle observed in [AIDS wasting
@@ -185,7 +188,7 @@ syndrome](http://www.aids.org/factSheets/519-Wasting-Syndrome.html).
     population?
 2.  Make of list of the possible benefits and disadvantages of having an
     altered myostatin protein.
-3.  Make a model by which the accumulation of mutations can be used to
+3.  Propose a model by which the accumulation of mutations can be used to
     determine the relationship between organisms.
 
 **Questions to ponder**
